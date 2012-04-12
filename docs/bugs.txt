@@ -1,0 +1,472 @@
+These are all known bugs, as reported by players (or myself) on the purely bug tracker.
+Maybe someone should fix them. :)
+
+
+
+Title 	 Non-existant ships
+Status 	Outstanding
+Type 	Minor
+Game Afflicted 	advanced
+Reported By 	FrothingWombat
+Reported On 	Jun 04 2004 - 20:10
+Description 	In system 59, the summary of other ships shows:
+"Commando1701(1C1) has 1 Ship(s) w/ 100 Fighters - Attack"
+But I click 'attack' and it says:
+"You don't have a target ship/fleet selected."
+And the full list of other ships says the system is empty.
+
+Also, in 17, the summary shows:
+"Reaper(1C1) has 1 Ship(s) w/ 3912 Fighters
+Reaper(1C1) has 1 Ship(s) w/ 50 Fighters"
+But the full list shows:
+"Reaper(1C1) Violator (Attack Battleship w/ 3912 fighters)"
+
+Yet another such situation in Sol; the summary says:
+"jalweber has 1 Ship(s) w/ 100 Fighters
+Admin - Pepsi has 56 Ship(s) w/ 6580500 Fighters"
+In the full list, Pepsi's ships show up, but not jalweber's.
+
+
+UPDATE - Moriarty - - Jun 05 - 02:37
+hmm. thanx
+
+UPDATE - FrothingWombat - - Jun 27 - 14:39
+This bug is popping up in Slow and Advanced now, see CK's and Weasel's reports
+
+
+----------------------------------------------
+
+
+ Title 	 Safe Turns
+Status 	Outstanding
+Type 	Minor
+Game Afflicted 	Advanced
+Reported By 	ice weasel
+Reported On 	Jun 07 2004 - 10:54
+Description 	I tried to attack someone and i got "There are no ships in that fleet that you may attack.
+Either because the ships have moved, or because that player is still in safe turns." The admin set the turns before being able to be attacked to 0, so i would asume there is a bug.
+
+UPDATE - Moriarty - - Jun 07 - 14:28
+Are you sure it's not simply because the ships moved?
+
+UPDATE - ice weasel - - Jun 07 - 15:23
+The ships were still there after i tried, and i was the only active user then.
+
+UPDATE - ice weasel - - Jun 14 - 22:55
+might as well close this mori, the round is long over, so nothing more can be said.
+
+----------------------------------------------
+
+
+ Title 	 cloaked ships
+Status 	Outstanding
+Type 	Minor
+Game Afflicted 	blitz
+Reported By 	FrothingWombat
+Reported On 	Jun 07 2004 - 23:29
+Description 	Attack links don't appear next to cloaked ships, so they're impossible to attack if they're the only ships in the system. Also, cloaked ships don't show up on the full list of ships in a system.
+
+----------------------------------------------
+
+
+ Title 	 dying in SD
+Status 	Outstanding
+Type 	Minor
+Game Afflicted 	blitz
+Reported By 	sanchez sucio
+Reported On 	Jun 19 2004 - 23:36
+Description 	when you go into the game and you are dead in SD, you get the mssg saying that.. well... you are dead, and underneath, there are links to your messages, and to the forum...
+If you click on the link to the forum, a screen comes up that says, "Stop messing around."
+Also, when you are killed, you get the message saying that you have left newbie safety(assuming safe turns are set to 0) and you get the cash for joining, like if you died at any other point in the game...
+
+----------------------------------------------
+
+
+	
+Title 	stealth/high stealth
+Status 	Outstanding
+Type 	Minor
+Game Afflicted 	slow
+Reported By 	sanchez sucio
+Reported On 	Jun 19 2004 - 23:50
+Description 	i can see the ships are there when i set it to "give summary of other ships", but when i click on "show all", it is like they do not exist..... I dont even get the "something disturbance detected" there....
+At the time I was using a Brob, which is supposed to have a scanner....
+
+UPDATE - sanchez sucio - - Jun 19 - 22:51
+I can see how many figs total he has(including on the cloaked ships) by clicking attack, and then going back though....
+
+----------------------------------------------
+
+
+itle 	 planet pop cap
+Status 	Outstanding
+Type 	Minor
+Game Afflicted 	
+Reported By 	Moriarty
+Reported On 	Jun 22 2004 - 10:20
+Description 	Colonists 14663413
+(Max: 14463443)
+
+
+i think it broke mori:P
+----------------------------------------------
+
+
+ Title 	 Cannot attack ships
+Status 	Outstanding
+Type 	Minor
+Game Afflicted 	Slow Newbie (SD)
+Reported By 	CrymsonKyng
+Reported On 	Jun 27 2004 - 07:38
+Description 	It's SD in the slow game but I get the following msg. when trying to attack ships.
+
+You don't have a target ship/fleet selected.
+
+(I got this when trying to attack a couple ships at Sol.)
+
+UPDATE - CrymsonKyng - - Jun 27 - 09:13
+I'm only guessing, but the following variable may be stopping attacks at Sol during this SD.
+
+keep_sol_clear
+Choose if all non-newbie ships are to be cattered from Sol if they are in that system for two consecutive hourly maints.
+checked Ships accumulate in Sol
+Ships scattered and players frustrated :)
+
+
+UPDATE - FrothingWombat - - Jun 30 - 10:32
+This looks to be the same as the 'non-existant ships' bug I reported a while back. It's happening in Blitz too, and it doesn't happen just in sol, or just in SD.
+
+UPDATE - ryloran - - Jul 13 - 12:05
+You don't have a target ship/fleet selected
+did the same thing to me in advanced- please change this to a higher priority. It could seriously effect the game if it gets any worse.
+----------------------------------------------
+
+
+ Title 	 Cloaked Ships
+Status 	Outstanding
+Type 	Minor
+Game Afflicted 	Slow Newbie
+Reported By 	CrymsonKyng
+Reported On 	Jun 28 2004 - 17:35
+Description 	With a scanner, this is what I see with 'Summary'.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Give Full List of Other Ships
+
+5 Cloaked Ship(s)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+When I click 'Full List', nothing is there. It's SD and all ships should be attackable. They also should be visible with a scanner.
+
+----------------------------------------------
+
+
+ Title 	 Battle Reporting
+Status 	Outstanding
+Type 	Minor
+Game Afflicted 	Advanced
+Reported By 	ice weasel
+Reported On 	Jul 12 2004 - 07:41
+Description 	I got attacked, and when i got the battle message it didn't tell me what ships were involved, what was lost, what survived, etc.
+
+godhatesu(gaa) intiated a fleet battle in system #141.
+
+Participants
+Attacker(s) Defender(s)
+Players 1 ( godhatesu(gaa)) 1 ( ice weasel(DSQ))
+Ships 1 1
+Ship Fighters 5,000 100
+Ship Weapon Systems 2 1
+Planets 0 0
+Planet Fighters 0 0
+
+Results
+Ships
+Survived Ships
+Lost Fighters
+Killed
+Attacker(s) 1 (100.00%) 0 (0%) 100
+Defender(s) 0 (0%) 1 (100.00%) 227
+----------------------------------------------
+
+
+ Title 	 Sol Scatter
+Status 	Outstanding
+Type 	Minor
+Game Afflicted 	Blitz
+Reported By 	ryloran
+Reported On 	Jul 25 2004 - 11:07
+Description 	Left ships in Sol during one hourly maint. Several hours (And maints) later, I went back and my ships were scattered. I also had an earlier fleet scattered the same way.
+----------------------------------------------
+
+
+ Title 	 autoshift
+Status 	Outstanding
+Type 	Minor
+Game Afflicted 	slow/blitz
+Reported By 	sanchez sucio
+Reported On 	Aug 15 2004 - 16:51
+Description 	you cannot autoshift to get colonists/minerals, unless you have enough money to buy a colonist(you arent charged for it, but it requires you to have enough cash.)
+
+UPDATE - Moriarty - - Aug 16 - 09:38
+hmm, interesting bug.
+----------------------------------------------
+
+
+ Title 	 planet attack bug
+Status 	Outstanding
+Type 	Minor
+Game Afflicted 	Slow
+Reported By 	FrothingWombat
+Reported On 	Sep 10 2004 - 17:00
+Description 	Planet devon in 104 gives you the message "That does not exist." when you try to attack it. It can be quarked though.
+
+UPDATE - FrothingWombat - - Sep 10 - 16:02
+When I landed on it, the owner was blank:
+Planet Name devon - Rename
+Owned by Owned by:
+
+I didn't claim it, so you can check it out.
+
+UPDATE - FrothingWombat - - Sep 10 - 16:03
+There's another one in 95 where the owner is blank.
+
+UPDATE - Moriarty - - Sep 11 - 09:02
+db check: Both planets have no fighters. One is "un-owned", one belongs to tekeshi.
+No idea what is causing it.
+----------------------------------------------
+
+
+ Title 	 Duplicator extra's
+Status 	Outstanding
+Type 	Minor
+Game Afflicted 	Blitz
+Reported By 	Admin
+Reported On 	Sep 15 2004 - 17:50
+Description 	I duplicated my transverser which had a ws on it already and the dup only charged me 230k. I think it should have charged 295k
+
+UPDATE - Moriarty - - Sep 16 - 09:03
+note to self: Tested and definatly broken!
+Duplicates the ws, but doesn't charge (nor does it list it).
+----------------------------------------------
+
+
+ Title 	 Self destructing
+Status 	Outstanding
+Type 	Minor
+Game Afflicted 	Blitz
+Reported By 	warble
+Reported On 	Sep 15 2004 - 23:00
+Description 	i have noticed that when you selfdesrtruct a group of ships including the one you are commanding the one you are commanding is listed as destroyed but still takes up fleet space
+
+i won an adv. transverser in bilko's so i sd'd my two transversers (i had two cos i was gonna give one to the trapped player but he already got one from someone else) while commanding one of them and the one i was commanding still existed and took up fleet space afterward
+
+UPDATE - Moriarty - - Sep 16 - 09:02
+u shouldn't be able to destroy the ship you are commanding.
+----------------------------------------------
+
+
+ Title 	 fleet change
+Status 	Outstanding
+Type 	Minor
+Game Afflicted 	blitz
+Reported By 	sanchez sucio
+Reported On 	Sep 19 2004 - 13:06
+Description 	ive reprted this before, but i didn't fully explain it, i think....
+when you have x ships of one type.. (e.g. merchant freighter) and change one to be your commmand ship, they are all the same fleet.
+then when you change the non-commanding merchant freighters to a different fleet, it also changes your commanding MF to fleet 2.
+At first they will be separate fleets, but if you try to move your command ship ONLY to another system, it will become part of fleet #2.
+----------------------------------------------
+
+
+ Title 	 shield gen won't install
+Status 	Outstanding
+Type 	Minor
+Game Afflicted 	Advanced Empires
+Reported By 	Direwolf
+Reported On 	Oct 18 2004 - 09:00
+Description 	When I go to Bilko's to install my shield generator it won't let me. It tells me You have no planets and so cannot collect this lot.But I do own a planet.Its called firma and is in ss90.
+----------------------------------------------
+
+
+ Title 	 mining
+Status 	Outstanding
+Type 	Trivial
+Game Afflicted 	slow
+Reported By 	sanchez sucio
+Reported On 	Jun 05 2004 - 19:58
+Description 	MF 03
+Merchant Freighter
+Fleet: 1
+Fighters: 50 / 300
+Shields: 150 / 150
+Armour: 20 / 20
+Specials: fr
+Cargo Bays:
+     7 Fuels
+
+i know the mining rate is not what it used to be, but im mining fuels, so it should be 5 per hour.. and well... 7 doesnt seem to be a number you should get... I have been mining for 2 hours since my last sale of cargo, and i had 5 fuels 2 hours ago, so that means i only mined 2 this hour...
+
+UPDATE - sanchez sucio - - Jun 05 - 19:59
+this can't be an invalid.. cuz.. well... it actually happened...
+
+UPDATE - Moriarty - - Jun 06 - 02:44
+Hmm. the mining rate for fuel for that ship is:
+mine_rate_fuel - 5
+and 1 for metal.
+
+Have you swiched the mining ability SINCE you reported the bug, and before i posted this update?
+
+Mind at present that ship has 19 in it. - i'm guessing u didn't unload it from 7. so that means it's gained 12 fuels sincec 3 maints (since 19:58 when u posted)
+noting that they should get a minimum of 4 and a max of 6 when it's set to 5, we can conclude that it is working, because 4 times 3 is twelve.
+But i'll keep it on my list of things to do.
+
+----------------------------------------------
+
+
+ Title 	 attack report bug
+Status 	Outstanding
+Type 	Trivial
+Game Afflicted 	
+Reported By 	Moriarty
+Reported On 	Jun 13 2004 - 02:21
+Description 	Admin unleashed a Delta Bomb in Star System #143.
+The bomb hit 99 of your ships doing 10000 damage to each.
+
+Of those hit, 99 were destroyed by the blast.
+Shown below is a compelte listing of all your ships hit by the bomb:
+
+qurk (Mega-Flex(tm)) - Destroyed
+qurk 01 (Mega-Flex(tm)) - Destroyed
+qurk 02 (Mega-Flex(tm)) - Destroyed
+qurk 03 (Mega-Flex(tm)) - Destroyed
+qurk 04 (Mega-Flex(tm)) - Destroyed
+qurk 05 (Mega-Flex(tm)) - Destroyed
+qurk 06 (Mega-Flex(tm)) - Destroyed
+qurk 07 (Mega-Flex(tm)) - Destroyed
+qurk 08 (Mega-Flex(tm)) - Destroyed
+qurk 09 (Mega-Flex(tm)) - Destroyed
+qurk 10 (Mega-Flex(tm)) - Destroyed
+qurk 11 (Mega-Flex(tm)) - Destroyed
+qurk 12 (Mega-Flex(tm)) - Destroyed
+qurk 13 (Mega-Flex(tm)) - Destroyed
+qurk 14 (Mega-Flex(tm)) - Destroyed
+qurk 15 (Mega-Flex(tm)) - Destroyed
+qurk 16 (Mega-Flex(tm)) - Destroyed
+qurk 17 (Mega-Flex(tm)) - Destroyed
+qurk 18 (Mega-Flex(tm)) - Destroyed
+qurk 19 (Mega-Flex(tm)) - Destroyed
+qurk 20 (Mega-Flex(tm)) - Destroyed
+qurk 21 (Mega-Flex(tm)) - Destroyed
+qurk 22 (Mega-Flex(tm)) - Destroyed
+qurk 23 (Mega-Flex(tm)) - Destroyed
+qurk 24 (Mega-Flex(tm)) - Destroyed
+qurk 25 (Mega-Flex(tm)) - Destroyed
+qurk 26 (Mega-Flex(tm)) - Destroyed
+qurk 27 (Mega-Flex(tm)) - Destroyed
+qurk 28 (Mega-Flex(tm)) - Destroyed
+qurk 29 (Mega-Flex(tm)) - Destroyed
+qurk 30 (Mega-Flex(tm)) - Destroyed
+qurk 31 (Mega-Flex(tm)) - Destroyed
+qurk 32 (Mega-Flex(tm)) - Destroyed
+qurk 33 (Mega-Flex(tm)) - Destroyed
+qurk 34 (Mega-Flex(tm)) - Destroyed
+qurk 35 (Mega-Flex(tm)) - Destroyed
+qurk 36 (Mega-Flex(tm)) - Destroyed
+qurk 37 (Mega-Flex(tm)) - Destroyed
+qurk 38 (Mega-Flex(tm)) - Destroyed
+qurk 39 (Mega-Flex(tm)) - Destroyed
+qurk 40 (Mega-Flex(tm)) - Destroyed
+qurk 41 (Mega-Flex(tm)) - Destroyed
+qurk 42 (Mega-Flex(tm)) - Destroyed
+qurk 43 (Mega-Flex(tm)) - Destroyed
+qurk 44 (Mega-Flex(tm)) - Destroyed
+qurk 45 (Mega-Flex(tm)) - Destroyed
+qurk 46 (Mega-Flex(tm)) - Destroyed
+qurk 47 (Mega-Flex(tm)) - Destroyed
+qurk 48 (Mega-Flex(tm)) - Destroyed
+qurk 49 (Mega-Flex(tm)) - Destroyed
+qurk 50 (Mega-Flex(tm)) - Destroyed
+qurk 51 (Mega-Flex(tm)) - Destroyed
+qurk 52 (Mega-Flex(tm)) - Destroyed
+qurk 53 (Mega-Flex(tm)) - Destroyed
+qurk 54 (Mega-Flex(tm)) - Destroyed
+qurk 55 (Mega-Flex(tm)) - Destroyed
+qurk 56 (Mega-Flex(tm)) - Destroyed
+qurk 57 (Mega-Flex(tm)) - Destroyed
+qurk 58 (Mega-Flex(tm)) - Destroyed
+qurk 59 (Mega-Flex(tm)) - Destroyed
+qurk 60 (Mega-Flex(tm)) - Destroyed
+qurk 61 (Mega-Flex(tm)) - Destroyed
+qurk 62 (Mega-Flex(tm)) - Destroyed
+qurk 63 (Mega-Flex(tm)) - Destroyed
+qurk 64 (Mega-Flex(tm)) - Destroyed
+qurk 65 (Mega-Flex(tm)) - Destroyed
+qurk 66 (Mega-Flex(tm)) - Destroyed
+qurk 67 (Mega-Flex(tm)) - Destroyed
+qurk 68 (Mega-Flex(tm)) - Destroyed
+qurk 69 (Mega-Flex(tm)) - Destroyed
+qurk 70 (Mega-Flex(tm)) - Destroyed
+qurk 71 (Mega-Flex(tm)) - Destroyed
+qurk 72 (Mega-Flex(tm)) - Destroyed
+qurk 73 (Mega-Flex(tm)) - Destroyed
+qurk 74 (Mega-Flex(tm)) - Destroyed
+qurk 75 (Mega-Flex(tm)) - Destroyed
+qurk 76 (Mega-Flex(tm)) - Destroyed
+qurk 77 (Mega-Flex(tm)) - Destroyed
+qurk 78
+
+
+==note missing details for final ship==
+----------------------------------------------
+
+
+	
+Title 	Bmoth pic
+Status 	Outstanding
+Type 	Trivial
+Game Afflicted 	
+Reported By 	Moriarty
+Reported On 	Jun 19 2004 - 02:54
+Description 	pic to Bmoth doesn't work.
+
+UPDATE - Moriarty - - Oct 06 - 11:02
+There is not actual picture for the behemoth. One needs to be made
+----------------------------------------------
+
+
+ Title 	 colonist purchase
+Status 	Outstanding
+Type 	Trivial
+Game Afflicted 	
+Reported By 	Moriarty
+Reported On 	Oct 06 2004 - 12:05
+Description 	buying 2 coloinists at 600 each there were 2 bugs:
+
+1) the input field showed 0, however i had cash for thousands, and capacity for 10 on ship (SS).
+2) When i had brought them, and clicked "submit" the following screen didn't say anything. but did get the coloists
+----------------------------------------------
+
+
+ Title 	 Transverser descript
+Status 	Outstanding
+Type 	Trivial
+Game Afflicted 	BLITZ
+Reported By 	Admin
+Reported On 	Oct 16 2004 - 18:25
+Description 	I just noticed that you can not tell if your tranny has any upgrades on it after you buy them. It may be like that for the other ships also.
+----------------------------------------------
+
+
+ Title 	 Days Left
+Status 	Outstanding
+Type 	Trivial
+Game Afflicted 	AE
+Reported By 	Admin
+Reported On 	Oct 23 2004 - 19:27
+Description 	every 12 hours the days left caoutns down, instead of every 24
+
+UPDATE - Moriarty - - Oct 25 - 07:59
+really? Most perplexing....

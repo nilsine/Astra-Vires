@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+Created By Moriarty, On 20/May/2004
+Contents of Stories File
+IMPORTANT NOTE: All square brackets will be replaced by < or > symbols!
+
+Template:
+<story>
+<title>Title of story</title>
+<author>Author name</author>
+<date>Date story was written</date>
+<content>
+Maint story content
+</content>
+</story>
+-->
+
+<!-- Tag for whole file-->
+<contents_of_file>
+
+<story>
+<title>Histoire</title>
+<author>Patrick Brady (alias Le Grand Faucheur)</author>
+<date> </date>
+<content>
+[!--[h3]"C'est un petit pas pour l'homme, un pas de géant pour l'humanité."[/h3]--]En l'an de grâce 2092, cent vingt cinq ans après les premiers pas sur la Lune de la mission Apollo 11, les quatre personnes qui composaient l'équipage du vaisseau spatial Excelsior devinrent les premiers humains à atteindre un autre système stellaire. Cela donna lieu à d'immenses célébrations et à de vives émotions sur Terre. Les fêtes spontanées et excessives qui s'ensuivirent mirent à contribution les ressources de toutes les polices du monde, les médias en délire couvrirent l'évènement comme nul autre avant, les politiciens, comme d'habitude, se félicitèrent de leurs propres efforts, et Jonathan Browning, un modeste technicien travaillant au tentaculaire institut SETI (Search for Extraterrestrial Intelligence, Quête d'une Intelligence Extraterrestre) fut le premier à recevoir une communication provenant d'une espèce alien.
+[p /]Le contenu du message effraya les Nations Unies. Il en résulta  un sentiment collectif de colère, de rage et d'indignation de toute l'humanité. Le message n'était pas en effet le très attendu "Amenez-moi à votre chef", mais un avertissement menaçant, quoique poli, conseillant à l'humanité de ne plus jamais sortir du Système Solaire sous peine de risquer la guerre avec des races alien technologiquement avancées. Après des mois de débats et de manoeuvres politiques, la réponse fut envoyée dans l'espace lointain: une requête en forme de défi, demandant aux aliens de se mêler de ce qui les regarde et de se tenir loin de l'expansion galactique de l'humanité. [p /]La réponse des aliens fut rapide et brutale. Une flotte de redoutables vaisseaux se mit en orbite quelques semaines plus tard et, sans avoir été provoquée et sans coups de semonce, pulvérisa les fières capitales des grandes puissances du monde. Le chaos qui s'ensuivit plongea la Terre dans un nouvel Age des Ténèbres.
+[p /]Les différentes économies stagnèrent puis s'écroulèrent, le désordre et la guerre se répandirent dans tous les pays, situation aggravée par le lancement accidentel d'une poignée de missiles nucléaires depuis différents endroits du globe. Lutte contre la guerre, la famine, les maladies qu'on croyait disparues à jamais, les zones à fortes retombées radioactives et le désastre économique: il fallut plus de dix ans pour qu'un nouvel ordre se mit en place, un ordre dirigé par l'influente poigne de fer des Corporations du nouvel âge.
+[p /]Petit à petit, l'ordre fut restauré dans le monde sous la direction de ces corporations, et leur domination sur la planète entière ne fut ralentie que par une pénurie fatale de nourritures et de matières premières. On relança les recherches en matière de voyages interstellaires. Dans ces économies du Nouvel Age, les sociétés privées et les entrepreneurs investirent dans ces recherches, et petit à petit, par un mouvement progressif de fusion et d'alliances, les premières Guildes naquirent. Les Guildes sont des grandes organisations qui comprennent des corporations, leurs alliés et des populations entières. L'invention du premier moteur à propulsion par bond PRL, utilisant une combinaison des anciens moteurs à propulsion ioniques et la technologie expérimentale des Vortex, fut un facteur décisif dans l'accélération du développement de vaisseaux spatiaux capables de voyages interstellaires instantanés.
+[p /]L'orbite de la Terre devint très rapidement encombrée de douzaines de stations de constructions, produisant en série les vaisseaux sophistiqués qui répondaient aux  besoins des Guildes. Cargos, cuirassés, vaisseaux miniers, vaisseaux coloniaux et chasseurs à pilotage individuel sortirent de ces stations, ainsi qu'un grand nombre de vaisseaux exotiques. Les rivalités et la concurrence entraînèrent leurs lots de sabotages et d'espionnage industriels à mesure que les Guildes combattirent pour la mainmise sur les nouvelles technologies qui étaient inventées au jour le jour.
+[p /]En 2123, les premiers vaisseaux interstellaires quittèrent le Système Solaire et développèrent la portée des Guildes jusqu'aux autres systèmes. Ces premières missions exploratoires furent des plateformes d'où un assaut total fut lancé contre la Galaxie. L'on cartographia les systèmes stellaires, qui firent l'objet d'explorations, en quête de Larium ou de Titane, que ce soit sur des météorites ou des planètes. Ces explorations rencontrèrent des aliens, mais les vaisseaux désormais technologiquement avancés de l'humanité purent repousser la plupart des attaques. La galaxie compte de nombreuses races alien. De nouvelles alliances furent conclues et des traités de paix signés, mais l'agressivité et la sauvagerie d'autres races extraterrestres conduisirent à de nombreuses attaques et raids.
+[p /]A mesure que l'humanité continuait son expansion, les rivalités et la concurrence se développèrent davantage et conduisirent à des querelles et des guerres entre les Guildes. Il devint très vite évident qu'une guerre totale était sur le point d'éclater, des Guildes s'allièrent entre elles et très vite même le Système Solaire n'était plus à l'abri d'attaques et de raids par les membres de Guildes rivales.[p /]On est maintenant en 2126. Les Guildes et les particuliers se sont entendus: cette année sera l'année de la conquête de la Galaxie par l'humanité. C'est l'aube d'une nouvelle ère pour l'humanité, une ère de voyages interstellaires, de guerres entre Guildes, de raids contre des races extraterrestres, une ère de colonisation et d'exploration. Une ère d'Empires Solaires.
+</content>
+</story>
+
+<story>
+<title>Les plans de la bombe Delta disparaissent</title>
+<author>Moriarty</author>
+<date>27-Jan-2002</date>
+<content>
+Aux dernières nouvelles nous avons pris connaissance d'une nouvelle menace pour la stabilité de la galaxie. La Société connue sous le nom de Heavy Weapons Inc a annoncé le vol des plans pour une nouvelle bombe qu'ils ont développée.
+[p /]Les enquêteurs pensent que le vol a été conduit par un petit groupe de milice appelé la [b class=b1]Libération Sol[/b] pour un acteur dont on ignore toute information, cependant ils n'ont pour l'instant aucune certitude sur l'identité du tiers. Ils craignent que les nouveaux propriétaires des plans les utilisent pour construire les bombes et leur vendront ensuite via Bilkos au plus offrant.
+[p /]La Bombe - qui à pour nom de code [b class=b1]Delta[/b] - a été développée pour l'armée, avec le but spécifique de cibler des vaisseaux de taille importante. Heavy Weapons Inc refuse de donner des détails sur les capacités de la bombe, mais ils ont déclarés qu'elle "a le potentiel de causer des dégats majeurs si elle venait à tomber entre de mauvaises mains".
+</content>
+</story>
+
+<story>
+<title>Nouveaux vaisseaux repérés au marché noir</title>
+<author>Moriarty</author>
+<date>5-June-2002</date>
+<content>
+Le marché noir, essentiellement composé de pirates fourbes et de brigands, aurait reçu deux nouveaux types de vaisseau.[br /]C'est ce que les agents de Sol qui ont infiltrés le réseau de pirates ont confirmés dans leur rapport. Ceux-ci, bien que fragmentaires, permettent de donner une estimation sur les capacités des vaisseaux obtenus. [br /][br /]Le premier vaisseau est l'[b class=b1]Occultator[/b], il est décrit comme un astéroïde sur lequel des installations de chasseurs ont été implantées. Ce "vaisseau" est de taille colossale. Bien que le rapport ne précise pas le but dans lequel le vaisseau a été conçu, on peut penser, bien qu'on ne connaisse pas les détails de l'équipement qu'il embarque, qu'il pourrait être utilisé afin de détruire une planète entière. Le nom donné au vaisseau ([b]l'Occultation signifiant le processus d'un astéroïde bloquant la lumière des étoiles sur une planète[/b]) renforce cette théorie.
+[p /]Le deuxième vaisseau est simplement classé comme une [b class=b1]Canonnière[/b]. Tout ce que l'on connaît sur ce vaisseau, c'est qu'il est petit, rapide et équipé de hautes technologies qui lui permettent d'être une menace significative pour les convois de marchands.
+[p /]Nous espérons seulement qu'en divulguant le contenu de ces rapports nous rendrons les capitaines de flotte et les gouverneurs planétaires davantage conscients des nouveaux dangers qui se répandent dans la galaxie.
+</content>
+</story>
+
+<story>
+<title>Annonce de Seatogu : Amélioration des vaisseaux.</title>
+<author>Moriarty</author>
+<date>5-June-2002</date>
+<content>
+Le [b class=b1]Marché de Vaisseaux spatiaux de Seatogu[/b] a fait deux annonces importantes aujourd'hui. La première qui à été exposée consiste en l'amélioration des vaisseaux existants en leur ajoutant des tourelles récemment développées.[p /]Un porte-parole de la société a annoncé que "La galaxie est de plus en plus hostile, nous voulons que nos clients puissent se sentir en sécurité. C'est dans leurs intérêts et suite à leur demande que nous avons fait ces améliorations et nous espérons que ce soit efficace pour assurer de la manière possible leur sécurité".
+
+[p /]Dans une seconde annonce, Seatogu à annoncé que tous les nouveaux vaisseaux seront équipés avec une IAC : Intelligence Artificielle de Combat.[br /]Cette IA permettra aux vaisseaux d'utiliser de manière optimale leurs différents systèmes offensifs et défensifs des vaisseaux. [br /]Le reportage dit : "Avec la mise en service de cette nouvelle IA et des algorithmes avancés de détection de menace, nous espérons franchir un pas important pour la sécurité des vaisseaux. Cela permettra aux cuirassés de détecter sur de longues distances l'arrivée de flottes hostiles.
+
+[p /]Un critique sur l'industrie spatiale a fait l'observation importante que le marché noir avait déjà d'une façon ou d'une autre accès à cette nouvelle technologie d'Intelligence Artificielle (IA) et comptait l'installer sur ses vaisseaux.
+
+</content>
+</story>
+
+<story>
+<title>Améliorations de moteurs dévoilées</title>
+<author>Moriarty</author>
+<date>17-Febuary-2003</date>
+<content>
+Avec l'avènement des vaisseaux toujours plus grands et le nombre croissant d'expéditions qui ont lieu dans les systèmes de frontières, on peut dire que l'amélioration des moteurs devient de plus en plus indispensable pour ces explorateurs.
+
+[p /]Lors d'une opération sous couverture dans le coeur de l'un des réseaux les plus notoires du marché noir, un journaliste a découvert que ces opérateurs ont déjà eu accès à de tels moteurs.
+[br /]En effet, il semblerait que cette rumeur sont fondée et que cette technologie a été vendue à une petite sélection de clients (Pirates) contre de fortes sommes d'argent.
+
+[p /]Selon un opérateur du marché noir qui souhaite garder l'anonymat, ces améliorations techniques offrent davantage de manoeuvrabilité dans les combats et, permettra des temps de voyages entre deux systèmes solaires encore plus courts.
+
+</content>
+</story>
+
+<story>
+<title>Tensions sur les chantiers des vaisseaux de guerre</title>
+<author>Moriarty</author>
+<date>24-March-2003</date>
+<content>
+Il y a 9 mois, nous avions signalé la disponibilité de l'[b class=b1]Occultator[/b] dans l'univers par les opérateurs du marché noir.
+[br /]Aujourd'hui, nous vous informons que les chantiers navals Sol ont commencé la fabrication de ces navires, avec même quelques modifications mineures.
+[p /]Selon les rapports officiels, les plans ont été obtenus de la manière suivante :[blockquote]
+[br /]Nous en avons d'abord eu un aperçu lorsqu'un capitaine plutôt stupide a apponté son Occultateur à Sol. Il est inutile de préciser que le vaisseau a immédiatement été saisi et confisqué et le capitaine en question expédié en prison.
+[br /]Cette saisie a permis d'obtenir une idée quant aux capacités des Occultateurs. Nous avons ensuite décidé qu'il serait dans l'intérêt des pionniers spatiaux qu'un règlement soit imposé.
+
+[p /]Nous nous sommes rapidement organisé et avons ensuite continué à exécuter un certain nombre de raids contre le marchés noir, jusqu'à ce qu'une copie des plans de l'Occultateur ait été trouvée. [br /]Ces plans sont maintenant aux mains des opérateurs du chantier naval de Sol qui les ont adaptés pour respecter les nouvelles directives que nous avons établies.
+[br /]Les nouvelles directives font essentiellement que l'Occultateur sera classé comme un [b class=b1]navire de guerre[/b] ce qui signifie qu'une limite de vaisseaux possédés sera imposée aux capitaines.
+[/blockquote]
+
+</content>
+</story>
+
+</contents_of_file>

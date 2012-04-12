@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+Created By Moriarty, On 20/May/2004
+Contents of Stories File
+IMPORTANT NOTE: All square brackets will be replaced by < or > symbols!
+
+a - (hyphen) in the topic denotes that it is empty.
+
+Template:
+<type_of_help>
+<title>Title of sub-topic</title>
+<content>Content for help</content>
+<relevent>Links to relevent sub-topics</relevent>
+</type_of_help>
+
+-->
+
+<!-- Tag for whole file-->
+<contents_of_file>
+
+
+<!-- ********************* Index ********************* -->
+
+<Index_help>
+<title>-</title>
+<content>
+[h3][b]Welcome to the Solar Empire Help Pages[/b][/h3]
+The aim of these pages is to provide you with all the information you'll need to become a successfull SE player. As you may have noted, this help page comes up in its own window, so you can flick between it and the game to see whats being talked about.
+[br /][br /]If you're new to Solar Empire, then lets [a href=help.php?topic=Getting_Started]get you started[/a].
+[br /][br /]If you're more of a Vet, then you may want to peruse the other sections of the site to try and find out more information to try and improve your play.
+[br /][br /]Note: There are no strategies in these pages, they can be found in the game forums.
+</content>
+</Index_help>
+
+
+<!-- ********************* Equipment ********************* -->
+
+<Equipment_help>
+<title>Equipment</title>
+<content>
+The term [b class='b1']Equipment[/b] is used for items that can be used to complement your fleet, but that are not fitted directly to any of your ships.
+</content>
+</Equipment_help>
+
+<Equipment_help>
+<title>Fighters &amp; Shields</title>
+<content>
+All ships have a specified maximum number of fighters that they can be equipped with.
+[br /]Fighters are the units that do all of the work in a battle situation. They deal damage to enemy ships/fighters and when attacked, they deal counter damage to the attacker.
+[br /][br /]A ship that has only shields will only be able to take damage. Shields absorb the first impacts of enemy fighters on your ship. Once they have run-out the fighters get to work in defending you ship. Shields automatically replenish over each hour until they reach the maximum a ship can hold. Fighters cannot and do not.
+[br /][br /]Fighters can be switched from ship to planet, as can shields (provided the target planet has a shield generator).
+</content>
+</Equipment_help>
+
+<Equipment_help>
+<title>The Genesis Device</title>
+<content>
+A Genesis Device is used to create a planet. Simply buy a genesis device from [b class='b1']Earth's Equipment shop[/b], go to a system other than system #1, which has some free planetary slots (the number of slots is shown at the top of the star system) and click the [b class='b1']Use Genesis Device[/b] link in the right column of the star system.
+[br /][br /]This will create a thriving planet with 1,000 colonists on it, which you can then practice your despotic ways upon.
+[p /]Note: It is not possible to purchase genesis devices when the admin has set up a game to have pre-generated planets (the planets are created at the same time as the universe). In this type of game you will have to conquor planets to be able to use them.
+</content>
+</Equipment_help>
+
+<Equipment_help>
+<title>Bombs</title>
+<content>
+'Big things that go Bang' : Definition of [b class='b1']Bombs[/b] from the 'Idiots guide to destroying the universe'. [br /][br /]An [b class='b1']Alpha bomb[/b] will Eliminate ALL shields from ALL ships in a system (yours included), no matter how many shields the ships may have. It will not actually do any damage to the fighters, or the ships.
+[br /][br /]A [b class='b1']Gamma bomb[/b] can be used to do 200 damage to each ship in a star system (yours included). It will take this damage from shields first, and when all shields are gone, then from the fighter count. If there are no fighters, then it will simply destroy the ship. Best used in conjuction with an Alpha Bomb.
+</content>
+</Equipment_help>
+
+
+<Equipment_help>
+<title>Equipment</title>
+<content>
+The term [b class='b1']Equipment[/b] is used for items that can be used to complement your fleet, but that are not fitted directly to any of your ships.
+</content>
+</Equipment_help>
+
+<Equipment_help>
+<title>Fighters &amp; Shields</title>
+<content>
+All ships have a specified maximum number of fighters that they can be equipped with.
+[br /]Fighters are the units that do all of the work in a battle situation. They deal damage to enemy ships/fighters and when attacked, they deal counter damage to the attacker.
+[p /]A ship that has only shields will only be able to take damage. Shields absorb the first impacts of enemy fighters on your ship. Once they have run-out the fighters get to work in defending you ship. Shields automatically replenish over each hour until they reach the maximum a ship can hold. Fighters cannot and do not.
+[p /]Fighters can be switched from ship to planet, as can shields (provided the target planet has a shield generator).
+</content>
+</Equipment_help>
+
+<Equipment_help>
+<title>The Genesis Device</title>
+<content>
+A Genesis Device is used to create a planet. Simply buy a genesis device from [b class='b1']Earth's Equipment shop[/b], go to a system other than system #1, which has some free planetary slots (the number of slots is shown at the top of the star system) and click the [b class='b1']Use Genesis Device[/b] link in the right column of the star system.
+[p /]This will create a thriving planet with 1,000 colonists on it, which you can then practice your despotic ways upon.
+[p /]Note: It is not possible to purchase genesis devices when the admin has set up a game to have pre-generated planets (the planets are created at the same time as the universe). In this type of game you will have to conquor planets to be able to use them.
+</content>
+</Equipment_help>
+
+<Equipment_help>
+<title>Bombs</title>
+<content>
+'Big things that go Bang' : Definition of [b class='b1']Bombs[/b] from the 'Idiots guide to destroying the universe'. 
+[p /]An [b class='b1']Alpha bomb[/b] will Eliminate ALL shields from ALL ships in a system (yours included), no matter how many shields the ships may have. It will not actually do any damage to the fighters, or the ships.
+[p /]A [b class='b1']Gamma bomb[/b] can be used to do 200 damage to each ship in a star system (yours included). It will take this damage from shields first, and when all shields are gone, then from the fighter count. If there are no fighters, then it will simply destroy the ship. Best used in conjuction with an Alpha Bomb.
+</content>
+</Equipment_help>
+
+
+<!-- ********************* Upgrades ********************* -->
+
+<Upgrades_help>
+<title>Upgrades</title>
+<content>
+This page lists many of the upgrades and accessories that can be found in this game.[br /]
+However, there are numerous other upgrades that are not mentioned here, but where they do appear they in the game they come with a suitable explanation.
+[br /]Upgrades can be purchased from either [b class='b1']Vladimirs Accessories &amp; Upgrades Store[/b], [b class='b1']Bilkos Auction House[/b] or one of the [b class='b1']Blackmarkets[/b].
+</content>
+</Upgrades_help>
+
+<Upgrades_help>
+<title>About Upgrades</title>
+<content>
+Upgrades are used to improve your current ship in one way or another. You may simply want to put some more shield capacity onto it, or you may want to give it a new Super Weapon, the point remains that you are aiming to improve it.
+[p /]Each upgrade requires one upgrade pod (unless otherwise stated), and will allow your ship to do something it couldn't do before. However once a upgrade pod has been used, it cannot be reclaimed.
+[br /]Use upgrade pods wisely on ships that you intend to keep in your service for a long time.
+</content>
+</Upgrades_help>
+
+<Upgrades_help>
+<title>Advanced Upgrades</title>
+<content>
+Advanced Upgrades are similar to normal Upgrades in most respects. The main difference is that they are based on Alien Technologies and can only be purchased from Blackmarkets. Therfore they are generally better than their [i]normal[/i] counterparts (if they have a counterpart at all!).
+[p /]These Upgrades are reverse engineered from originals discovered on Alien Derelict Ships found after battles or lost in Star Systems, or they come from secret research labs that aren't as methodical in their safety regimes as the Sol labs, and are therefore quicker to develop things.
+</content>
+</Upgrades_help>-->
+
+<Upgrades_help>
+<title>The 3 Basic Upgrades</title>
+<content>
+The 3 basic upgrades will each upgrade certain aspects of the ship you are commanding for a small price (i.e. Max Fighters, Maz Shields, Max Armour, and Cargo capacity,.
+</content>
+</Upgrades_help>
+
+<Upgrades_help>
+<title>Offensive Turret</title>
+<content>
+The Offensive Turret is an AI controlled Level 1 weapons array dedicated to clearing local space of enemy fighters. The AI ensures the turrets hit each and every time to the tune of 200 damage points.
+[br /]No battleship should be without it!
+</content>
+</Upgrades_help>
+
+<Upgrades_help>
+<title>Defensive Turret</title>
+<content>
+The Defensive Turret is a Level 1 defence system controlled by an AI. Its special design enables it to intercept and destroy incoming munitions.
+[br /]Excellent combat defence system that will block up to 220 attack points before allowing a ship to take damage. The first defence system of its kind!
+</content>
+</Upgrades_help>
+
+<Upgrades_help>
+<title>Shrouding Unit</title>
+<content>
+This upgrade gives a ship the [b class='b1']ls[/b] configeration. This means that enemy players will not be able to determine any information about the ship, unless they have a ship with a scanner on it.
+</content>
+</Upgrades_help>
+
+<Upgrades_help>
+<title>Scanner</title>
+<content>
+Allows a user to see all information about a ship that would otherwise be an 'unknown', if the ship is lightly stealthed.
+[br /]However, if the ship is Highly Stealthed, then it will give limited information about a ships fighter count, and such like, however it will not be able to determine the ships owner.
+</content>
+</Upgrades_help>
+
+<Upgrades_help>
+<title>Shield Charging Unit</title>
+<content>
+This upgrade will allow a ship's shields to regenerate 25% faster.
+</content>
+</Upgrades_help>
+
+<Upgrades_help>
+<title>Wormhole Stabiliser</title>
+<content>
+An absolutely essential upgrade if you have a Transverser, or plan on building a planet, or both.
+[br /]This upgrade allows for [b class='b1']Autoshifting[/b] to take place, whereby a fleet of ships will shift from your planet, to Sol, nab as many colonists as it can carry and you can afford, and then come back and dump them onto the planet. Saves vast amounts of time, and generally costs the same number of turns as doing it manually.
+[br /]This upgrade also allows for an infinite number of ships to be towed with it when it makes a jump (from 10 ships max if there is no stabiliser installed).
+[br /]May only be used on ships with a sub-space jump drive.
+</content>
+</Upgrades_help>
+
+<Upgrades_help>
+<title>Terra Maelstrom</title>
+<content>
+This upgrade is here because of its complexity. It does not require an upgrade pod, instead the ship must already have the Quark Disrupter built in.
+[p /]It can only be fired at a planet, and uses either a lot of turns, or ALL of a players turns, depending on the size of the planet, and the turn count of the user. In general, it is best used against big planets when the player has a very high turn count.
+[br /]It also charges the ships shields at 3 times the normal rate.
+</content>
+</Upgrades_help>
+
+
+<!-- ********************* Blackmarkets ********************* -->
+
+<Blackmarkets_help>
+<title>Blackmarkets</title>
+<content>
+Research is the term used to describe the generation of Tech. Support Units by a planets Research Facility. It is these Tech. Support Units that enable you to purchase the advanced Alien items at a Blackmarket.
+[br /]Note: Research and Blackmarkets can be turned off by the admin. Though they are generally left in.
+</content>
+</Blackmarkets_help>
+
+<Blackmarkets_help>
+<title>Advanced and Alien Items</title>
+<content>
+So what are Advanced and Alien Items? To put it simply, they are the collection of Ships, Upgrades ad Bombs that are based either on reverse-engineered Alien artifacts or on advanced human designs considered illegal and dangerous by the Sol Authorities.
+[br /]They include all manner of exotic ships, equipment, upgrades and a range of exprimental bombs, mines and missiles. For a full list of these items consult the relevant areas of this help file.
+</content>
+</Blackmarkets_help>
+
+<Blackmarkets_help>
+<title>Research Facilities and Support Units</title>
+<content>
+You aquire Tech. Support units by building a Research Centre on a planet.
+[p /]Once built, a research can produce up to a certain number of Tech Support Units on your planet every hour (changes on a per game basis).
+[p /]The number of units produced is worked out as follows:
+[br /] - Your planet must be [b class='b1']at least half full[/b]. I.e. you must be half way to the planets' population maximum before any are produced.
+[br /] - The number produced is worked out by first figuring out exactly how full your planet is (as a percent of capacity).
+[br /] - You will then get this percent of the hourly_tech per hour.
+[p /]Example:[pre]
+A Planet's [b class='b1']maximum population[/b] is [b]10[/b] million.
+The planet has [b]8[/b] million colonists.
+It is therefore [b]80%[/b] full.
+
+[b class='b1']hourly_tech[/b] is set to [b]10[/b] tech units per turn.
+80% of 10 is 8.
+So you get [b class='b1']8 tech units per hour[/b].[/pre]
+</content>
+</Blackmarkets_help>
+
+<Blackmarkets_help>
+<title>Illegal Blackmarkets</title>
+<content>
+In Solar Empire certain groups of ex-pirates have set up an extensive blackmarket network. In-game any number of blackmarkets can exist, each located in a random Star System. Due to their illegal nature, modern blackmarkets take the form of immense Trader or Cargo Ships which move at random between Star Systems, always one step ahead of the Sol Authorities. Once you actually find a Blackmarket and contact it you will find that two areas exist within it.
+[br /]The first area deals with all manner of Advanced Ships and/or Alien Spacecraft.
+[br /]The second area you will see handles the fitting of equipment and upgrades to ships.
+[p /]Most of these have been reverse engineered from Alien originals, even though few could even guess at just how they work.
+[p /][b]It should be noted that Blackmarkets change location each day.[/b]
+</content>
+</Blackmarkets_help>
+
+
+<!-- ********************* Planets ********************* -->
+<!--
+<Planets_help>
+<title></title>
+<content></content>
+</Planets_help>
+-->
+
+<!-- ********************* Clans ********************* -->
+
+<Clans_help>
+<title>Clans</title>
+<content>
+This Page contains basic information on clans. How to join, what they're good for, and that sort of thing.
+</content>
+</Clans_help>
+
+<Clans_help>
+<title>Basic Clan Information</title>
+<content>
+It is not required to join a clan. Some players play solo with great success (sometimes), however if you are new at this game then it should be a high priority to find a clan. You may search through different organised clans by selecting the Clan Control option. You may also post onto the Forum.
+[br /]If you are in a newbie game, just post that you are a newbie and are looking for some aid in the game. You may even find someone advertising a clan for newbie assistance. These are usually experienced members who are willing to give a helping hand to anyone new to the game.
+[br /]After you post a message to the forum, check back often to see if someone else has invited you. You will also want to check your Messages to see if anyone has sent you a personal reply. To go through the process of joining a clan, click the Clan Control link again. Now find the name of the clan you have been recruited to and select the Join link. Then enter the password of the clan you are entering, usually given to you by the clan leader.
+</content>
+</Clans_help>
+
+<Clans_help>
+<title>Loyalty in a Clan</title>
+<content>
+Clan loyalty is one of the more important aspects of the game; if you show strong loyalty to help your clan without many complaints to the clan leader then others may ask you to be part of their clan at a later date. If you are unloyal to your clan, you will be most likely be kicked out of the clan, and then probably destroyed by that clan's members to boot. After that offense, information about you will be posted on the forum and you will have a very hard time finding clans to join in the future.
+</content>
+</Clans_help>
+
+
+<!-- ********************* Getting Started ********************* -->
+
+<Getting_Started_help>
+<title>Getting Started</title>
+<content>
+This guide should be open in a different window from the one in which you are playing the game in. The idea being that as you read the instructions in this window, you can then switch over to the game and see just what we're talking about.[br /]So without any further ado, lets get started.
+[p /]First - Check and see how many credits you are given at signup. (This is visible in the column on the left, directly below your [b class='b1']user name[/b]). [br /]Why? Because you need to buy more ships. Moneymaking is exponential in this game. That means the more ships you have, the faster you can make money, and the faster you can buy more ships.
+[br /][b]Buying your first ship(s)[/b] - You'll be in a Star System(SS) called [b class='b1']Sol[/b]. This system is number [b]1[/b] and is the heart of the universe. This information is in the top centre of your screen.[br /] Land on the planet ([b class='1']Earth[/b]) and take a visit to [b class='b1']Seatogu's Spacecraft Emporium[/b]. Here you will find numerous different kinds of ships, with the ones that you want to look at at this stage in the game being the [b class='b1']Freighters[/b] at the top of the page.[br /]The [b class='b1']Merchant Freighter[/b](MF) is the least costly mining ship. Its mining rate is about 6 units per hour for at a cost of [b]10,000[/b] Credits (To see information about a specific ship, click the 'info' link next to it.[br /]The [b class='b1']Harvester Mammoths[/b](HM) may look very tempting. For fifty grand you can get a ship that mines about 17 units/hour. This means that for five times the price you can mine 3 times as fast. It's not worth it in the beginning of the game.[br /][br /]Now go ahead and buy yourself some MF's. If you have lots of money, you can click the [b class='b1']Mass Buy[/b] link which will allow you to buy many Freighters at once. But if you only want to buy one ship, just click the ships name.
+[br /][br /][b]Once the ship has been brought and named[/b] - You will want to collate your ships into a fleet, whereby one ship will tow the others. You can command different ships by clicking the [b class='b1']command[/b] link that is next to them, or you can tow them by selecting that instead. When a ship is being towed the tow link will change to [b class='b1']Stop Towing[/b]. Also the [b class='b1']Tow All[/b] link will save you time and effort by towing all ships in the fleet behind the ship you are currently commanding.
+[br /][br /][b]When you have all your ships in tow[/b] - Leave the Sol system and go to an adjacent system. To do this simply click one of the numbers at the top of the screen which look like so: [b class='b1']Warp:[/b] &lt; X &gt;, &lt; X &gt; , &lt; X &gt;. Each number is a different system. The starmap on the right of your screen helps you navigate.
+[br /][br /][b]In the New system[/b] - You will quite likely find either some Fuel, or Metal, or usually both (it will be shown in the top centre of the screen, below the warp links). If there is none, simply warp around until you find some. but don't go too far because you only have a limited number of turns (shown in the left column below your cash). You are better off finding a system adjacent to Sol that has Fuel in it. Once in a system with Fuel (fuel generally gets more money than Metal) click the [b class='b1']Mine All[/b] button next to the fuel and all of your mining ships in the system will now start mining fuel. Do this right now.
+[br /][br /][b]Congratulations[/b] - You have just got started. There is much more information in these help pages, but thats all you need to get started.[br /]You will get more turns per hour that passed. In this game your turns will increase by a few per hour.[br /] Your ships will mine the fuel/metal when the game gets to the next hour. You may then sell the fuel/metal at a port and go back to Earth (System #[b]1[/b]) to buy more ships.
+[br /][br /][b]Other help sections[/b] - Recommended for immediate reading by a Newbie:[br /] - Clans[br /] - -Misc Info.[br /][br /]The other areas of this help are concerned with aspects of the game you won't be needing to get to know for a short while yet. But you may start reading them whenever you like. Feel free to click links randomly. You won't be able to do anything you're not allowed to do, and the best way to learn is by exploring.[br /][br /]So off you go to start having fun, and we hope to see you perusing these help files later in the game.
+</content>
+</Getting_Started_help>
+
+
+<!-- ********************* Combat Help ********************* -->
+
+<Combat_help>
+<title>Combat</title>
+<content>This page contains a fairly detailed overview of combat, and how it works.</content>
+</Combat_help>
+
+<Combat_help>
+<title>Combat Overview</title>
+<content>
+This part of the help will explain how all the 'parts' are put together to make the whole.
+[p /]Once all combat participants have been selected, they are grouped together into friendly and hostile groups.[br /]Note: The attacker may not use [b class='b1']Planet Only[/b] ships to attack ships, unless there is one or more assisting planet defending the target ships.
+[br /]The upgrade damage is then calculated for the two sides (info on upgrade damage can be found in the [a href=#upgrades]Upgrades[/a] section of this page).[br /]Fighter damage for each side is then calculated. The fighter damage is then modified by any and all of the below:
+[ul]
+	[li]Ship Speed[/li]
+	[li]Ship Size[/li]
+	[li]Stealthiness[/li]
+	[li]Ship Type (freighters and battleships get bonuses).[/li]
+	[li]Scanner[/li]
+	[li]Ship Only ships (these only get their bonus if no planets are involved)[/li]
+	[li]Planet Only ships (these get a big negative bonus if no planets are involved)[/li]
+	[li]Ship Experience[/li]
+[/ul]
+Once all of that has been calculated, the final fighter damage for each side is worked out.[br /]The fighter and upgrade damage is then distributed the combatants on the relevent side, in a semi-random manner.
+[br /]Any ships that take damage to their armour, but are not destroyed, have a fair chance of loosing some of their fighter/shield capacity!
+[br /]Any metal/fuel that was in any destroyed ships cargo holds will be added to the star systems metal/fuel reserves.
+[br /]Destroyed fighters also contribute to the star systems metal/fuel reserves.
+[p /]And that is a [b class='b1']VERY[/b] simple description of how a 2000+ line script works. :)
+</content>
+</Combat_help>
+
+<Combat_help>
+<title>Planet, and assisted fleet combat</title>
+<content>
+Pretty much everything said in the [b class='b1']Combat Overview[/b] is true of planet combat too (with differences being in the numbers used). However there are some extra nuances for planet combat.
+[p /] - [b]Attacking a planet[/b][br /]When attacking a planet, any ships with the [b class='b1']Ship Only[/b] configuration will not participate.
+[br /] Any fighters that are [b class='b1']not[/b] allocated to fleet defence (see Allocating fighters) will defend the planet:
+[br /][b class='b1']HOWEVER[/b]! The above is only true if there are actually ships in the system to defend. If there are no friendly ships in the system, when the planet is attacked, then all of the planets fighers will be available to defend the planet.[br /]Here are a couple of examples:
+[p /]Planet X has 1000 fighters on it, and 400 of them are allocated to fleet defence (leaving 600 for planet defence).
+[p /][b class='b1']Example 1[/b]: Player A attacks planet X, ignoring the fleet in the system.
+[br /]The owner of planet X has a few ships in the system.
+[br /]Only 600 fighters will defend planet X during the attack (because the other 400 are scattered amoung the friendly fleet, ready to defend it should it be attacked).
+[br /][b]Be Aware[/b]: The 400 fighters that were allocated to the fleet will become the property of the planet attacker, if the planet attacker manages to claim the planet!!!
+[p /][b class='b1']Example 2[/b]: Player A attacks the same planet X (with the same fighter allocations).
+[br /]This time there are [b class='b1']no[/b] friendly ships in the system (they're mining elsewhere).
+[br /]All 1000 of the planets fighters will be available to defend the planet from this attack.
+
+[br /][br /][p /] - [b]Attacking a Fleet[/b] that has a planet helping defend them.[br /]Assuming you have allocated some fighters to fleet defence, then when a fleet in that star system is attacked, the planet will help with fleet defence.
+[br /]This works simply by adding the planets allocated fighters to the ships allocated fighters. Damage is distributed between them in the same semi-random way as a normal fleet battle.
+[br /]It is possible to have [b class='b1']many assisting planets[/b] in the same system. All of which will join in with fleet defence if your fleet is attacked.
+[p /]In planet assisted combat, [b class='b1']planet only[/b] (PO) ships may take part on [b]BOTH[/b] sides (in normal ship to ship combat, PO ships are only allowed in the target fleet). This allows fighter counts on the attackers part to be much larger (to offset the huge fighter capacity planets can have).
+[br /]Also, [b class='b1']Ship Only[/b] (SO) ships loose any bonuses, and are basically 'normal' warships for the duration of combat.
+</content>
+</Combat_help>
+
+<Combat_help>
+<title>Simulating Combat</title>
+<content>
+Simulating combat allows you to get an idea of how combat will go, without actually risking loosing your fleet.
+[br /]It runs all the same code, and the results are generally the same, but nothing is actually saved when the combat is finished.
+[br /]However, you should remember that there is a large element of randomness in combat, and so the results of the simulation are not guaranteed to be the same as the results of an actual attack.
+[p /]If a planet is involved in the combat, then the simulation will take a guess as to how many fighters that planet will commit to the combat (as it cannot know for certain how many fighters have been allocated to the task).
+[br /][b]Note[/b]: For planet attacking, if there are no fleets belonging to the planet owner in the system, then the simulation will realise that all planet fighters will be defending the planet (as there are no fleets for allocated fighters to defend).
+</content>
+</Combat_help>
+
+<Combat_help>
+<title>- Shields</title>
+<content>
+Shields are the first line of defense for your ships. They re-generate on a regular basis at no cost to the player.
+[br /]During combat shields are the first layer of defense. They defend your fighters. Shields are not able to do damage during attack. Each unit of shielding can absorb 1 point of damage before being eliminated.
+[p /]Shields may only be used to defend ships. They are not able to defend a planet.
+</content>
+</Combat_help>
+
+<Combat_help>
+<title>- Fighters</title>
+<content>
+Fighters serve as the primary method by which you will do damage to the enemy player during combat. Each fighter generally does just a little less than 1 point of damage in combat. 1 point of damage to a fighter will kill it.
+[br /]During combat, fighters are defended by shields. Once a ships shields have been eliminated, damage starts getting done to the fighters (note: defensive turrets avoid shields and just hit fighters!).
+[p /]Fighters can be used upon both ships and planets for offensive and defensive purposes.
+</content>
+</Combat_help>
+
+<Combat_help>
+<title>- Armour</title>
+<content>
+The sole purpose of armour to to try to keep the ship it is deployed on intact. It cannot do damage.
+[br /]Armour must be brought for ships, but it is possible to get self-reparing armour.
+[br /]During combat the armour on a ship will simply absorb damage (similar to shields), however it will only absorb damage that would otherwise destroy the ship. Before damage can get to a ship's armour, all of a ship's fighters and shields must be destroyed.[br /]Each unit of Armour can usually absorb 2 points of damage before being eliminated. (The admin can change this number).
+[p /]Armour only defends ships. It is unable to be used to defend planets.
+</content>
+</Combat_help>
+
+<Combat_help>
+<title>- Upgrades</title>
+<content>
+Upgrades can play pivotal role in combat. They give ships the ability to do damage to the enemy, without having to carry fighters.[br /]There are three types of combat upgrades:[p /]
+[b]Electronic Warfare Modules (EWM's)[/b] - Each EWM has a limited [i]charge[/i], which is used up for each point of damage the EWM deals with.
+[br /]If both side A and B have EWM's, but side A has more, then B's EWM's will be rendered ineffective. If both sides have the same number, then they will cancel each other out, and no damage will be done.
+[br /]EWM's start by trying to neutralise the opponents [b class='b1']Offensive Turrets[/b]. If there is still charge left, they will then try to neutralise the opponenents [b class='b1']Defensive Turrets[/b]. Any remaining charge will be used to destroy enemy [b class='b1']Fighters[/b] (skipping any enemy shields).
+[br /]Note: If [b]any[/b] planets are taking part in combat, all EWM's on both sides will be nullified (planets have a dampening effect on them).
+[p /][b]Defensive Turrets (DT's)[/b] - The defensive turrets are unique in that they allow a ship to destroy enemy fighters [b class='b1']before[/b] the fighters can do damage to the ship. This is their only role in combat.[br /]DT damage skips any enemy shields.
+[p /][b]Offensive Turrets (OT's)[/b] - These include the [b class='b1']Pea-Shooter[/b], and the [b class='b1']Plasma Cannon[/b]. They do damage in a similar way to fighters (i.e. they destroy enemy shields first, then fighters, and finally armour).[br /]It should be noted that if these turrets get through a ships armour, the [b class='b1']ship will be destroyed[/b] (similar to fighters).
+</content>
+</Combat_help>
+
+<Technical_Information_help>
+<title>Technical Information</title>
+<content>
+This page contains technical information about the game, and as such can get pretty technical.
+[br /]The idea behind the page is to give details about how certain aspects of the game work, so as to allow players to better exploit those areas.
+[p /]The present collection of information is listed below:
+</content>
+</Technical_Information_help>
+
+<Technical_Information_help>
+<title>Terra Maelstroms</title>
+<content>
+[br /]Moriarty (11/June/02)
+[p /]These are vicious little anti-planet weapons that are an upgrade for the quark disrupter.
+[br /]At present, the quark disrupter does 600 to 1400 damage per shot (randomised) for 30 turns.
+[p /]The Terra takes 50 turns as an absolute minimum to fire. What happens is this:
+[br /]Those 50 turns can generate between 4000 and 6000 damage (randomised).
+[br /]Now, if the planet has more than that number of fighters, and the user has more than 50 turns, the game will first find out how many turns is the maximum a player can have. If the player has the maximum number of turns, they will kill between 65% and 75% of the fighters on the planet (randomised). If they don't have that many turns, the gun will use all of the turns a player has and work out what amount up to that 65-75% the user is capable of doing.
+[br /]Whichever number is a result of working out the damage done is then randomised by 5%.
+[p /]Once that is all done, the game will see if the damage done by using all of a players turns is actually greater than the fixed damage done for 50 turns. Whichever does the most damage wins, and is used.
+</content>
+</Technical_Information_help>
+
+
+<!--
+<type_of_help>
+<title></title>
+<content></content>
+</type_of_help>
+
+<type_of_help>
+<title></title>
+<content></content>
+</type_of_help>
+
+<type_of_help>
+<title></title>
+<content></content>
+</type_of_help>
+
+-->
+
+</contents_of_file>

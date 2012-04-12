@@ -1,0 +1,66 @@
+/* Created By Moriarty */
+/* Classic */
+
+/* Based on the Classic stylesheet by Bryan */
+
+body {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 10pt;
+background-color:#000000;
+color:#FFFFFF;
+padding:5px;
+
+/*The pretty scrollbars. Only ever seen them work in IE mind. */
+scrollbar-3d-light-color: Black;
+scrollbar-arrow-color: #FF6666;
+scrollbar-dark-shadow-color: Gray;
+scrollbar-shadow-color: #A9A9A9;
+scrollbar-highlight-color: Black;
+scrollbar-base-color: #F5F5DC;
+scrollbar-face-color: #4F4F4F;
+}
+
+/*link colours*/
+A:link {text-decoration: none;font-weight: bold;color:#FF6666}
+A:visited {text-decoration: none;font-weight: bold;color:#FF6666}
+A:hover {text-decoration: underline;font-weight: bold;color:#00FFFF}
+
+input {
+	font-size:10pt;
+	border:none;
+}
+
+
+#principal {
+	position:relative;
+	width:780px;
+	z-index:0;
+	margin-right: auto;
+	margin-left: auto; 
+}
+
+#boitelogin {
+	-moz-opacity:0.75;
+	opacity: 0.75;
+	filter:alpha(opacity=75);
+	position:absolute;
+	top:340px;
+	left:220px;
+	z-index:1;
+	background-color:#555555;
+	text-align:left;
+}
+
+#petit_menu {
+	padding: 6px;
+	margin-right:15px;
+	float:left;
+	border: solid 1px #FF0000;
+}
+
+#contenu {
+	padding: 5px;
+	float:left;
+	width:350px;
+	border: solid 1px #FF0000;
+}

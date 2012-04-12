@@ -1,0 +1,17 @@
+Ce dépôt contient la source du jeu en ligne www.astravires.fr
+
+Il a été développé à partir du jeu PHP Solar Empire, créé en 2003 par Moriarty.
+
+Il a été intégralement traduit, l'interface a été complètement revue et de nombreuses modifications ont été apportés au code depuis 2009.
+
+Astra Vires est sous licence AGPL. Vous pouvez modifier le code à votre guise mais devez libérer celui-ci si vous décidez d'avoir votre propre version en ligne.
+
+Les illustrations ainsi que le logo original ont été retirés du projet pour des raisons de droits.
+
+Installation
+------------
+
+* Base de donnée MySQL à importer sql/astravires_clean.sql
+* Configuration dans config.dat.php
+* Pour créer une nouvelle galaxie importez sql/new_game.sql en changeant GAMENAME par le nom de votre galaxie (une première galaxie « alpha » est déjà dans astravires_clean.sql)
+* Consultez le install.txt d'origine dans docs pour plus d'informations, il peut cependant être obsolète en partie

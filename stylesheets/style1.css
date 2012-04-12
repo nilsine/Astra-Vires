@@ -1,0 +1,112 @@
+/* Created By Moriarty */
+/* Classic */
+
+/* Based on the Classic stylesheet by Bryan */
+
+body {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 10pt;
+background-color:#000000;
+color:#FFFFFF;
+
+/*The pretty scrollbars. Only ever seen them work in IE mind. */
+scrollbar-3d-light-color: Black;
+scrollbar-arrow-color: #FF6666;
+scrollbar-dark-shadow-color: Gray;
+scrollbar-shadow-color: #A9A9A9;
+scrollbar-highlight-color: Black;
+scrollbar-base-color: #F5F5DC;
+scrollbar-face-color: #4F4F4F;
+}
+
+/*Normal */
+th {
+	font-size: 10pt;
+	font-weight: normal;
+
+}
+td {font-size: 10pt;}
+form {font-size: 10pt}
+
+b {color: #F0F0F0}/*regular bold*/
+b.b1 {color: #FF0000; font-weight: normal}/*bold type 1 (used regularly)*/
+b.b2 {color: #FFFFFF} /*bold type 2 - Very rarely used*/
+b.cloak{color: #555555}/*colour of highlighed ships*/
+
+/*link colours*/
+A:link {text-decoration: none;font-weight: bold;color:#FF6666}
+A:visited {text-decoration: none;font-weight: bold;color:#FF6666}
+A:hover {text-decoration: underline;font-weight: bold;color:#00FFFF}
+
+
+/**********TopBar Sets**********/
+
+/*Topbar Itself*/
+.topbar {
+background-color:#333333;
+vertical-align: top;
+padding: 1px;
+height:81px;
+width:490px;
+}
+
+/*The top topbar row (the part with the players name in it*/
+td.v_col {background-color:#660000}
+
+/*The cells that have the "report a bug" and "help" links in them*/
+td.v_col_2{background-color:#000000}
+
+/*middle topbar row*/
+tr.v_col {background-color:#440000}
+
+/*Bottom topbar row*/
+tr.v_col_2 {background-color:#220000}
+
+
+/**********Left Bar Sets*********/
+
+/*Left Bar itself*/
+/*Note: lefbar width is set HERE!*/
+.leftbar {
+background-color:#000000;
+vertical-align: top;
+height: 100%;
+width: 160px;
+}
+
+/* The l_col sets are used to create the small tables you see in the left column
+Widths should be a little lower than width set in .leftbar */
+table.l_col {background-color:#550000; padding: 0; border-width: 0; width: 156px;}
+th.l_col {
+	background-color:#555555;
+	background-image:url(images/interface/degrade1.png);
+	background-repeat:repeat-x;
+}
+td.l_col {background-color:#111111}
+
+
+/********Other*******/
+/*Ship mini-functions table */
+table.s_funcs{background-color:#330000; width: 200px}
+
+#boitelogin {
+	-moz-opacity:0.75;
+	opacity: 0.75;
+	filter:alpha(opacity=75);
+	position:absolute;
+	top:440px;
+	left:300px;
+	width: 340px;
+	z-index:1;
+	background-color:#555555;
+	text-align:left;
+	padding: 5px;
+}
+
+#principal {
+	position:relative;
+	width:780px;
+	z-index:0;
+	margin-right: auto;
+	margin-left: auto; 
+}

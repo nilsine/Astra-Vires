@@ -1,0 +1,172 @@
+order of damage taken
+
+Fighters die
+shields die
+armour die
+
+
+
+EWP
+	- Other EWP's = These are on a fleet total scale. So whichever fleet has the most will win this little battle.
+	- take out offensive turrets (b4 they can do their damage)
+	- take out shields
+
+Defensive turrets 
+	- take out fighters BEFORE they do damage.
+
+Offensive turrets (ps&pc) 
+	- take out fighters after figs do damage.
+	- take out shields
+	- take out armour (and thus the ship).
+
+fighters
+	- take out other figs
+	- take out shields
+	- take out armour
+
+
+Bio-Organic armour will simply be self-repairing armour and will play no extra part in combat. Will loose 10% of armour if swap to bio-organic.
+
+Armour takes two hits for every 1 hit that figs or shields can take.
+
+
+Fleet issues:
+longest ship name = 15 chars
+longest user name = 15 chars
+ability to merge fleets
+get detailed info about a fleet (clans & users).
+
+
+
+
+
+
+
+
+
+
+
+
+Fleet attack:
+* can't fleet attack without a BS in the group!
+/ tactics available are based upon the highest experiance llevel amoung any BS in the group.
+* na and po are only involved when defending. They take no part if their fleet is the attacking party.
+
+processing:
+/ input a time-stamp for each ship involved in the battle. Do not allow that ship to be moved or scraped whilst within 60secs of that timestamp. Timestamp is removed when the processing is finished.
+
+Process in two loops.
+* settimeout(60);
+The first loop works out what ships are going to be pitted against what ships.
+/the second loop actually does the damage to each side's ships.
+then a report is sent to the users.
+
+
+*start - generic
+*	select * from ships where can take part in battle
+*	results go into a v.big multi-dimensional array, indexed by ship_id
+*	ships[approx_damage] = x+y+z
+*	ships[allocted] = 0
+
+middle - tactics
+/	foreach
+
+/	when a ship is used, set it's 'allocated' = 1, so it's not used again.
+
+*to be sent to damage processing:
+send a single array that contains each ship that is going to be playing with many other ships.
+i.e.
+ships_fighting[user_ship] = array(
+168 => 2, #friendly ship
+178 => 1, #enemy ship
+175 => 1, #enemy ship
+174 => 1, #enemy ship
+179 => 1, #enemy ship
+); #so we can have 2 friendlies taking out a load of enemies (4).
+
+or
+
+ships_fighting[user_ship] = array(
+168 => 1, #enemy
+178 => 2, #friendly ship
+175 => 2, #friendly ship
+174 => 2, #friendly ship
+179 => 2, #friendly ship
+); #Lots of friendly ships being picked on by 1 enemy ship. Note it's a friendly ship in the array_id in the first place.
+
+
+end - damage processing
+/	loop through the ships_fighting array. Process each entry as it comes out.
+	distribute damage to fleets randomly. Not necassarily evenly, but not necassarily taking out ships 1 at a time in order!
+
+very end:
+	Update the database with new ship stats.
+	Delete destroyed ships from the db using a single nice long sql string.
+	update db, set attack_timestamp = 0 for ships involved.
+	REPLACE QUARK AND TERRA INTO ATTACK.PHP
+	single ship versus single ship...
+
+
+
+
+
+All battlegroups going from tactical to attacking.
+	$combat_array[]
+
+
+all details ships in combat. indexed by ship_id
+	$friendly_ships[]
+	$target_ships[]
+
+
+ship_count, user_count, fighter_count
+	$friendly_details[]
+	$target_details[]
+
+ship_count, & some group stats (fig count etc) for present battlegroup
+	$user_group
+	$target_group
+
+
+
+specials for present battle-group
+	$f_bonus
+	$t_bonus
+
+contains all players, and certain details about them. Indexed by ship_id
+	$players_array
+		lost_ship - 1= lost EP, 2 = lost other command ship.
+
+
+whole group just destroyed.
+	$user_group_destroyed
+	$target_group_destroyed
+
+
+*********************************
+
+
+name strings
+	$foes_name_str
+	$friends_name_str
+
+type strings
+	$friend_types_str
+	$target_types_str
+
+$short_str - short string for outputting
+$tech_str - long string for outputting
+$error_str - generic output (long and short), not for messages
+
+
+
+
+
+planetary issues:
+EWP completely (as in both sides) non-functional in combat with planets (attack planets, or planets are involved in fleet defence).
+
+the attacker looses advantages of SO ships in combat involving planets (including S v's S&P combat).
+Also looses disadvantages to PO ships in S v's S&P combat.
+
+!!!Look Into!!!
+Fighter damage done to attacker by target planet, when planet has 200k figs or 400k figs defending it. - Ensure is different

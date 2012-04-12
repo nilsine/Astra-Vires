@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+Created By Moriarty, On 20/May/2004
+Contents of Stories File
+IMPORTANT NOTE: All square brackets will be replaced by < or > symbols!
+
+a - (hyphen) in the topic denotes that it is empty.
+
+Template:
+<type_of_help>
+<title>Title of sub-topic</title>
+<content>Content for help</content>
+<relevent>Links to relevent sub-topics</relevent>
+</type_of_help>
+
+-->
+
+<!-- Tag for whole file-->
+<contents_of_file>
+
+
+<!-- ********************* Index ********************* -->
+
+<Index_help>
+<title>-</title>
+<content>
+[h3][b]Bienvenue sur les pages d'aide d'Astra Vires[/b][/h3]
+Ces pages ont pour but de vous fournir le maximum d'informations afin que vous puissiez devenir un excellent joueur d'Astra Vires. Vous avez sans doute remarqué que cette page s'ouvre dans sa propre fenêtre, ce qui vous permet de basculer entre elle et la page de jeu pour situer précisément ce dont elle parle.
+[br /][br /]Vous êtes un nouveau venu sur Astra Vires ? Alors [a href=help.php?topic=Getting_Started]commençons par ici[/a].
+[br /][br /]Si vous êtes un vétéran, vous êtes sans doute plus intéressé par la consultation des autres sections du site afin de découvrir plus d'informations en vue d'améliorer votre jeu.
+[br /][br /]Remarque: Ces pages ne traitent pas de stratégie. Il faut aller sur les forums du jeu pour les trouver.
+</content>
+</Index_help>
+
+
+<!-- ********************* Equipment ********************* -->
+
+<Equipment_help>
+<title>Equipements</title>
+<content>
+[b class='b1']Equipement[/b] désigne tous les articles qui peuvent être utilisés par vos vaisseaux et vos flottes, sans pour autant être directement installés dans vos vaisseaux.
+</content>
+</Equipment_help>
+
+<Equipment_help>
+<title>Chasseurs &amp; Boucliers</title>
+<content>
+Tous les vaisseaux peuvent être équipés d'un nombre maximum déterminé de chasseurs.
+[br /]Les chasseurs sont les acteurs principaux des batailles. Ils infligent des dégâts aux vaisseaux ou chasseurs ennemis et en cas d'attaque, ils sont chargés de contre-attaquer et d'endommager les attaquants.
+[br /][br /]Les boucliers permettent seulement à un vaisseau  d'encaisser les attaques. Ils absorbent les premiers impacts des chasseurs ennemis sur votre vaisseau. Une fois qu'ils sont épuisés, les chasseurs prennent la main pour la défense de votre vaisseau. Les boucliers se régénèrent automatiquement toutes les heures jusqu'à ce qu'ils atteignent le maximum qu'un vaisseau puisse supporter. Les chasseurs, eux, ne se régénèrent pas.
+[br /][br /]On peut affecter les chasseurs aussi bien sur un vaisseau que sur une planète, et il en est de même pour les boucliers (à condition que la planète dispose d'un générateur de bouclier).
+</content>
+</Equipment_help>
+
+<Equipment_help>
+<title>Genesis</title>
+<content>
+Le dispositif Genesis sert à créer une planète. Pour cela, achetez un Genesis dans un [b class='b1']Magasin d'équipements sur Terre[/b], partez vers un système différent du système n°1 et qui dispose d'orbites disponibles (le nombre d'orbites s'affiche sur la page dans le tableau du système) et cliquez sur le lien [b class='b1']Utiliser Genesis[/b] dans la colonne de droite du tableau du système.
+[br /][br /]Cela créera une planète prospère où se trouvent 10 000 colons, sur lesquels vous pourrez exercer vos dons innés de dictateur.
+[p /]Remarque: si l'admin a paramétré la partie pour l'utilisation d'un nombre déterminé de planètes préexistantes, l'achat de Genesis sera impossible (ces planètes seront créées en même temps que l'Univers). Dans ces parties, vous devez conquérir une planète pour pouvoir les utiliser. 
+</content>
+</Equipment_help>
+
+<Equipment_help>
+<title>Bombes</title>
+<content>
+'Des gros trucs qui font boum!' : telle est la définition des [b class='b1']Bombes[/b] selon 'Détruire l'univers pour les nuls'. [br /][br /]Une [b class='b1']bombe Alpha[/b] va réduire à néant TOUS les boucliers de TOUS les vaisseaux présents dans un système (y compris les vôtres), peu importe le nombre de boucliers dont un vaisseau dispose. Aucun dégât ne sera infligé aux chasseurs ou aux vaisseaux eux-mêmes.  
+[br /][br /]Une [b class='b1']bombe Gamma[/b] peut faire 200 dégâts à chaque vaisseau présent dans un système (y compris les vôtres). Ces dégâts toucheront d'abord les boucliers, puis une fois ceux-ci disparus, elles réduiront le nombre de chasseurs. S'il n'y a plus de chasseurs, elles détruiront tout simplement le vaisseau. Plus efficace quand utilisée en même temps qu'une bombe Alpha.
+</content>
+</Equipment_help>
+
+
+<Equipment_help>
+<title>Equipements</title>
+<content>
+[b class='b1']Equipement[/b] désigne tous les articles qui peuvent être utilisés par vos vaisseaux et vos flottes, sans pour autant être directement installés dans vos vaisseaux.
+</content>
+</Equipment_help>
+
+<Equipment_help>
+<title>Chasseurs &amp; Boucliers</title>
+<content>
+Tous les vaisseaux peuvent être équipés d'un nombre maximum déterminé de chasseurs.
+[br /]Les chasseurs sont les acteurs principaux des batailles. Ils infligent des dégâts aux vaisseaux ou chasseurs ennemis et en cas d'attaque, ils sont chargés de contre-attaquer et d'endommager les attaquants.
+[p /]Les boucliers permettent seulement à un vaisseau d'encaisser les attaques. Ils absorbent les premiers impacts des chasseurs ennemis sur votre vaisseau. Une fois qu'ils sont épuisés, les chasseurs prennent la main pour la défense de votre vaisseau. Les boucliers se régénèrent automatiquement toutes les heures jusqu'à ce qu'ils atteignent le maximum qu'un vaisseau puisse supporter. Les chasseurs, eux, ne se régénèrent pas.
+[p /]On peut affecter les chasseurs aussi bien sur un vaisseau que sur une planète, et il en est de même pour les boucliers (à condition que la planète dispose d'un générateur de bouclier).
+</content>
+</Equipment_help>
+
+<Equipment_help>
+<title>Genesis</title>
+<content>
+Le dispositif Genesis sert à créer une planète. Pour cela, achetez un Genesis dans un  [b class='b1']Magasin d'équipements sur Terre[/b], partez vers un système différent du système n°1 et qui dispose d'orbites disponibles (le nombre d'orbites s'affiche sur la page dans le tableau du système) et cliquez sur le lien [b class='b1']Utiliser Genesis[/b] dans la colonne de droite du tableau du système.
+[p /]Cela créera une planète prospère où se trouvent 10 000 colons, sur lesquels vous pourrez exercer vos dons innés de dictateur.
+[p /]Remarque: si l'admin a paramétré la partie pour l'utilisation d'un nombre déterminé de planètes préexistantes, l'achat de Genesis sera impossible (ces planètes seront créées en même temps que l'Univers). Dans ces parties, vous devez conquérir une planète pour pouvoir les utiliser. 
+</content>
+</Equipment_help>
+
+<Equipment_help>
+<title>Bombes</title>
+<content>
+'Des gros trucs qui font boum!' : telle est la définition des [b class='b1']Bombes[/b] selon 'Détruire l'univers pour les nuls'. [p /]Une [b class='b1']bombe Alpha[/b] va réduire à néant TOUS les boucliers de TOUS les vaisseaux présents dans un système (y compris les vôtres), peu importe le nombre de boucliers dont un vaisseau dispose. Aucun dégât ne sera infligé aux chasseurs ou aux vaisseaux eux-mêmes.  
+[p /]Une [b class='b1']bombe Gamma[/b] peut faire 200 dégâts à chaque vaisseau présent dans un système (y compris les vôtres). Ces dégâts toucheront d'abord les boucliers, puis une fois ceux-ci disparus, elles réduiront le nombre de chasseurs. S'il n'y a plus de chasseurs, elles détruiront tout simplement le vaisseau. Plus efficace quand utilisée en même temps qu'une bombe Alpha.
+</content>
+</Equipment_help>
+
+
+<!-- ********************* Upgrades ********************* -->
+
+<Upgrades_help>
+<title>Upgrades</title>
+<content>
+Cette page donne la liste des principaux upgrades et accessoires qu'on peut trouver dans cette partie.[br /]
+De nombreux autres upgrades ne sont toutefois pas indiqués ici, mais ils peuvent apparaître au gré de la partie. Dans ce cas, il y a toujours une explication qui les accompagne.
+[br /]On peut acquérir les upgrades auprès du [b class='b1']Magasin Vladimir d'accessoires &amp; upgrades[/b], des [b class='b1']Maisons d'enchères Bilkos[/b] ou sur l'un des [b class='b1']Marchés de contrebande[/b].
+</content>
+</Upgrades_help>
+
+<Upgrades_help>
+<title>A propos des upgrades</title>
+<content>
+Les upgrades servent à améliorer et renforcer votre vaisseau actuel d'une manière ou d'une autre. Cela peut être par l'ajout de capacités boucliers, l'installation d'un Super Laser tout neuf, bref, tout ce qui sert à l'améliorer. 
+[p /]Un upgrade ne peut se faire sans module d'upgrade (à moins qu'il ne soit indiqué autrement), et permet à votre vaisseau d'effectuer quelque chose qu'il ne pouvait pas faire avant. Notez toutefois qu'une fois qu'un module d'upgrade est utilisé, on ne peut plus le récupérer. 
+[br /]Soyez judicieux dans l'utilisation des modules d'upgrade dans les vaisseaux que vous avez l'intention de conserver pour une longue période.
+</content>
+</Upgrades_help>
+
+<Upgrades_help>
+<title>Upgrades avancés</title>
+<content>
+Les upgrades avancés sont comparables aux upgrades normaux sur de nombreux points. La principale différence réside dans le fait qu'ils découlent de technologies aliens et qu'on ne les trouve que dans les marchés de contrebande. Du fait de cette origine, ils sont plus performants que leurs équivalents [i]normaux[/i] (si tant est qu'ils aient un équivalent!).
+[p /]Ces upgrades sont fabriqués par reverse engineering d'après les originaux découverts sur des vaisseaux aliens abandonnés après des batailles ou perdus dans différents systèmes, ou proviennent de laboratoires de recherche top secrets qui n'ont pas des normes de sécurité aussi strictes que les labos sur Terre, et qui par conséquent parviennent à développer des innovations plus rapidement.
+</content>
+</Upgrades_help>
+
+<Upgrades_help>
+<title>Les 3 upgrades de base</title>
+<content>
+Les 3 upgrades de base vont chacun améliorer certains aspects du vaisseau que vous pilotez en échange d'un prix modique (capacité max en chasseurs, en boucliers, en coque et en cargaison).
+</content>
+</Upgrades_help>
+
+<Upgrades_help>
+<title>Tourelles offensives</title>
+<content>
+La tourelle offensive est un dispositif d'armements de niveau 1 contrôlé par intelligence artificielle, et qui est spécialisé dans l'élimination des chasseurs ennemis de l'espace environnant. L'intelligence artificielle permet de garantir que les tourelles font mouche à chaque coup et infligent 200 points de dégâts.[br /]Indispensable pour tous les vaisseaux de guerre!
+</content>
+</Upgrades_help>
+
+<Upgrades_help>
+<title>Tourelles défensives</title>
+<content>
+La tourelle défensive est un système de défense de niveau 1 contrôlé par intelligence artificielle. Sa conception particulière lui permet d'intercepter et de détruire les munitions adverses.
+[br /]C'est un système de défense particulièrement remarquable qui bloquera une attaque jusqu'à hauteur de 220 points avant de laisser le vaisseau encaisser les dégâts. Le premier système de défense de ce genre! 
+</content>
+</Upgrades_help>
+
+<Upgrades_help>
+<title>Unité de camouflage</title>
+<content>
+Cet upgrade donnera au vaisseau la configuration [b class='b1']basse furtivité[/b]. Les joueurs ennemis ne pourront obtenir aucune information sur le vaisseau à moins qu'ils ne disposent d'un scanner sur un de leurs vaisseaux. 
+</content>
+</Upgrades_help>
+
+<Upgrades_help>
+<title>Scanner</title>
+<content>
+Permet à un joueur de consulter toutes les informations sur un vaisseau qui autrement serait qualifié d'"inconnu", si le vaisseau est en basse furtivité. 
+[br /]Si le vaisseau est toutefois en haute furtivité, il ne donnera que des informations limitées sur le nombre de chasseurs, et des éléments de ce genre, sans qu'il soit possible de déterminer l'identité du propriétaire du vaisseau.
+</content>
+</Upgrades_help>
+
+<Upgrades_help>
+<title>Unité de recharge de bouclier</title>
+<content>
+Cet upgrade permettra aux boucliers d'un vaisseau de se régénérer 25% plus rapidement.
+</content>
+</Upgrades_help>
+
+<Upgrades_help>
+<title>Stabilisateur de Vortex</title>
+<content>
+Cet upgrade est extrêmement recommandé si vous avez un Transverseur, ou si vous prévoyez de créer une planète, ou les deux à la fois.
+[br /]Cet upgrade permet de réaliser l'[b class='b1']Autodéplacement[/b], grâce auquel une flotte va glisser de votre planète jusqu'à la Terre, récupérer autant de colons qu'elle peut acheminer et que vous pouvez payer, puis revenir et les débarquer sur la planète. Cela économise beaucoup de temps et coûte en règle générale autant de cycles que si vous l'aviez fait manuellement.  
+[br /]Cet upgrade permet également de remorquer une quantité infinie de vaisseaux lors d'un saut (contre 10 vaisseaux au maximum si aucun stabilisateur n'est installé).
+[br /]Ne peut être utilisé que sur les vaisseaux munis de moteurs à saut subspatial.
+</content>
+</Upgrades_help>
+
+<Upgrades_help>
+<title>Terra Maelstrom</title>
+<content>
+Cet upgrade est présenté ici en raison de sa complexité. Il ne requiert pas un module d'upgrade, mais le vaisseau doit avoir été construit avec un Disrupteur de Quark. 
+[p /]On ne peut l'utiliser que sur une planète, et coûte soit un nombre élevé de cycles, soit TOUS les cycles du joueur, en fonction de la taille de la planète. Il est recommandé de l'utiliser contre les grosses planètes, lorsque le joueur dispose de beaucoup de cycles. 
+[br /]Il charge également les boucliers du vaisseau à un taux trois fois plus élevé que le taux normal.
+</content>
+</Upgrades_help>
+
+
+<!-- ********************* Blackmarkets ********************* -->
+
+<Blackmarkets_help>
+<title>Contrebande</title>
+<content>
+La recherche désigne la génération d'UTS (Unités de Support Technique) par les centres de recherche d'une planète. Ces UTS vous permettent ensuite d'acheter des articles aliens ou sophistiqués auprès de contrebandiers.
+[br /]Remarque: L'admin peut désactiver la recherche et la contrebande. Même si d'habitude, on les laisse activés.
+</content>
+</Blackmarkets_help>
+
+<Blackmarkets_help>
+<title>Articles Aliens et Sophistiqués</title>
+<content>
+Que sont les articles aliens et sophistiqués? Il s'agit simplement des vaisseaux, upgrades et bombes qui soit proviennent d'un reverse engineering d'artéfacts aliens, soit sont des créations humaines considérées comme illégales et dangereuses par les autorités de Sol.
+[br /]On y trouve toutes sortes de vaisseaux, d'équipements et d'upgrades exotiques, ainsi que différentes bombes, mines et missiles expérimentaux. Pour une liste complète de ces articles, veuillez consulter les sections appropriées de ce fichier d'aide.
+</content>
+</Blackmarkets_help>
+
+<Blackmarkets_help>
+<title>Centres de recherches et Unités de Support</title>
+<content>
+Vous amassez des UTS en construisant un centre de recherche sur une planète. 
+[p /]Une fois qu'il est construit, un centre peut produire jusqu'à une certaine quantité d'UTS par heure sur votre planète (variable suivant les parties).
+[p /]Le nombre d'UTS produit est déterminé comme suit:
+[br /] - Votre planète doit au moins être [b class='b1']à moitié pleine[/b], c'est-à-dire que vous devez disposer de la moitié au moins de la population maximale de la planète avant de pouvoir produire des UTS.
+[br /] - La quantité produite est déterminée d'abord en calculant exactement le taux de remplissage de votre planète (exprimé en pourcentage).
+[br /] - Vous obtenez alors ce pourcentage de hourly_tech par heure.
+[p /]Exemple:[pre]
+La [b class='b1']population maximale[/b] d'une planète est de [b]10[/b] millions.
+La planète a [b]8[/b] millions de colons.
+Elle est donc remplie à [b]80%[/b].
+
+[b class='b1']hourly_tech[/b] est donc fixé à [b]10[/b] UTS par cycle.
+80% de 10 donne 8.
+Vous obtenez donc [b class='b1']8 UTS par heure[/b].[/pre]
+</content>
+</Blackmarkets_help>
+
+<Blackmarkets_help>
+<title>Marchés illégaux de contrebande</title>
+<content>
+Dans Astra Vires, certains groupes d'anciens pirates ont mis en place un vaste réseau de marchés de contrebande. Dans une partie, il peut y avoir n'importe quelle quantité de marchés de ce genre, chacun situé dans un système au hasard. Comme ils sont illégaux, ces marchés noirs modernes sont implantés dans des gigantesques vaisseaux commerciaux ou cargos qui se déplacent au hasard d'un système à l'autre, mais toujours avec un coup d'avance sur les autorités officielles. Lorsque vous trouverez un marché de contrebande et le contacterez, vous verrez qu'en fait, il est divisé en deux zones.  
+[br /]La première zone offre toutes sortes de vaisseaux sophistiqués et/ou de vaisseaux aliens.
+[br /]La deuxième zone s'occupe des équipements et des upgrades des vaisseaux.
+[p /]La plupart de ces articles sont issus d'un reverse engineering des équipements aliens originaux, même si peu de monde est capable ne serait-ce que de deviner comment ils fonctionnent.
+[p /][b]Il faut noter que les marchés de contrebande changent de place tous les jours.[/b]
+</content>
+</Blackmarkets_help>
+
+
+<!-- ********************* Planets ********************* -->
+<!--
+<Planets_help>
+<title></title>
+<content></content>
+</Planets_help>
+-->
+
+<!-- ********************* Clans ********************* -->
+
+<Clans_help>
+<title>Guildes</title>
+<content>
+Cette page présente les informations de base sur les guildes: comment y adhérer, à quoi elles servent, etc ...
+</content>
+</Clans_help>
+
+<Clans_help>
+<title>Informations de base sur les guildes</title>
+<content>
+L'adhésion à une guilde n'est pas obligatoire. Certains joueurs préfèrent se la jouer solo, avec (quelquefois) beaucoup de succès. Mais si vous êtes débutant dans ce jeu, trouver une guilde doit être une priorité absolue. Vous pouvez chercher à travers les différentes guildes en allant dans Gestion des Guildes. Vous pouvez également écrire sur le Forum.
+[br /]Si vous êtes un newbie, écrivez juste que vous êtes un newbie et que vous cherchez de l'aide dans la partie. Généralement, des membres expérimentés sont prêts à aider ceux qui débutent dans la partie.
+[br /]Après avoir posté votre message sur le forum, vérifiez régulièrement pour voir si quelqu'un d'autre ne vous a pas invité. Vous pouvez également consulter vos messages pour voir si quelqu'un ne vous a pas envoyé un message privé. Pour suivre la procédure d'adhésion à une guilde, cliquez de nouveau sur le lien de Gestion de Guilde, puis trouvez le nom de la guilde qui vous a recruté et cliquez sur le lien Rejoindre. Saisissez ensuite le mot de passe de la guilde que vous voulez rejoindre. Ce mot de passe doit généralement vous être donné par le chef de la Guilde.
+</content>
+</Clans_help>
+
+<Clans_help>
+<title>Loyauté à une guilde</title>
+<content>
+La loyauté à une guilde est l'un des éléments les plus importants du jeu. Si vous affichez une forte loyauté à la guilde sans vous plaindre en permanence auprès du chef de la guilde, alors les autres pourront plus tard vous demander de rejoindre leurs guildes. Si vous n'êtes pas loyal à votre guilde, vous serez sans doute expulsé de la guilde, puis ensuite probablement attaqué et détruit par les membres de ce clan. Et après cela, votre comportement sera posté sur le forum et vous aurez extrêmement de mal à intégrer une autre guilde dans l'avenir.
+</content>
+</Clans_help>
+
+
+<!-- ********************* Getting Started ********************* -->
+
+<Getting_Started_help>
+<title>Démarrer</title>
+<content>
+Ce guide devrait s'ouvrir dans une fenêtre différente de celle dans laquelle vous jouez. Le but est que vous puissiez basculer sur la fenêtre du jeu au fur et à mesure que vous lisez les informations dans cette fenêtre, et que vous puissiez voir en temps réel de quoi l'on parle.[br /]Trêve de blabla, commençons tout de suite.
+[p /]En premier lieu - Consultez et vérifiez le nombre de cubits qu'on vous a octroyé lors de votre inscription. (On peut voir cela dans le tableau en haut au milieu, juste en-dessous de votre [b class='b1']nom d'utilisateur[/b]). [br /]Pourquoi? Parce que vous aurez besoin d'acheter de nombreux vaisseaux. L'argent et l'accumulation d'argent sont des éléments essentiels de ce jeu. Plus vous aurez de vaisseaux, plus vite vous pourrez amasser et accumuler de l'argent, et plus vite vous pourrez acheter davantage de vaisseaux.
+[br /][b]L'achat de votre premier vaisseau[/b] - Vous vous trouverez dans un système qui s'appelle [b class='b1']Sol[/b]. C'est le système numéro [b]1[/b], le coeur de l'Univers. Vous trouverez cette information en haut et au centre de votre écran.[br /] Aterrissez sur la planète ([b class='1']Terre[/b]) et allez visiter le [b class='b1']Garage de Seatogu[/b]. Vous y trouverez un large choix de vaisseaux. A ce stade du jeu, vous aurez d'abord besoin de [b class='b1']Cargos[/b], en haut de la page.[br /]Le [b class='b1']VibZ[/b](MF) est le vaisseau d'extraction minière le moins cher. Son taux d'extraction est d'environ 6 unités par heure pour un prix de [b]10 000[/b] cubits (Vous pouvez consulter les informations spécifiques à un vaisseau en particulier en cliquant sur le lien 'info' situé à côté).[br /]Les [b class='b1']Cargo Lourds[/b] (HM) peuvent sembler très intéressants. Pour 50 000 cubits, vous achetez un vaisseau capable d'extraire près de 17 unités par heure.[br /][br /]Maintenant, allez-y, achetez-vous quelques VZ. Si vous avez beaucoup d'argent, vous pouvez cliquer sur le lien [b class='b1']Acheter plusieurs[/b] qui vous permet d'acheter plusieurs cargos en même temps. Mais si vous voulez juste acheter un seul vaisseau, cliquez sur le nom du vaisseau.
+[br /][br /][b]Une fois que vous avez acquis le vaisseau et l'avez baptisé[/b] - Vous allez regrouper vos vaisseaux pour former une flotte (en général par défaut tous vos vaisseaux se mettent dans la flotte 1), dans laquelle un vaisseau remorque tous les autres. Vous pouvez vous mettre aux commandes des différents vaisseaux en cliquant sur le lien [b class='b1']Commander[/b] près de chaque vaisseau, ou vous pouvez choisir de tous les remorquer en sélectionnant cette option. <!--Lorsqu'un vaisseau est remorqué, le lien de remorquage se transformera en [b class='b1']Arrêter Remorquage[/b]. Le lien [b class='b1']Tout Remorquer[/b] vous économisera du temps en activant le remorquage de tous vos vaisseaux de la flotte derrière le vaisseau que vous êtes en train de commander.-->
+[br /][br /][b]Lorsque vous avez tous vos vaisseaux en remorque[/b] - Quittez le système solaire et partez pour un système voisin. Pour cela, il suffit de cliquer sur l'un des numéros en haut de l'écran de la forme: [b class='b1']Liens PRL:[/b] &lt; X &gt;, &lt; X &gt; , &lt; X &gt;. Chaque numéro est un système différent. La carte stellaire à la droite de l'écran vous aidera dans votre navigation.
+[br /][br /][b]Dans le nouveau système[/b] - Vous y trouverez sans doute du Larium, ou du Titane, ou d'habitude les deux (cela s'affichera au centre, sous les liens PRL). S'il n'y en a pas, continuez à utiliser les liens PRL jusqu'à ce que vous en trouviez. Mais n'allez pas trop loin parce que vous ne disposez que d'une quantité limitée de Cycles (tableau en haut à côté de votre trésorerie). Vous feriez mieux de trouver un système proche de Sol qui dispose de larium. Une fois dans un système riche en larium (qui rapporte généralement plus d'argent que le titane), cliquez sur le bouton [b class='b1']Extraction par flotte[/b] près du larium et tous vos vaisseaux dans ce système vont démarrer l'extraction de larium. Faites-le maintenant.
+[br /][br /][b]Félicitations ![/b] - Vous venez de commencer le jeu. Ces pages d'aide contiennent beaucoup plus d'informations, mais c'est ce dont vous avez besoin pour bien commencer.[br /]Vous obtiendrez plus de cycles à chaque heure qui passe. Dans cette partie, vos cycles augmenteront de quelques unités par heure.[br /] Vos vaisseaux vont extraire le larium/titane jusqu'à ce que la partie passe à l'heure suivante. Vous pourrez alors vendre le larium/titane dans un astroport et revenir sur Terre (Système n°[b]1[/b]) pour acheter plus de vaisseaux.
+[br /][br /][b]Autres sections de l'aide[/b] - Lecture recommandée pour les débutants:[br /] - Guildes[br /] - -Infos diverses.[br /][br /]Les autres sections de l'aide traitent des aspects du jeu dont vous n'avez pas à vous préoccuper pour l'instant. Mais vous pouvez commencer à les consulter quand vous voulez. Vous pouvez cliquer sur les liens au hasard. Vous ne pourrez pas faire des actions que vous n'êtes pas autorisés à faire, et l'exploration constitue le meilleur moyen d'apprendre. [br /][br /]Alors, allez et commencez à vous amuser, et nous espérons que nous vous reverrons consulter ces pages d'aide un peu plus tard dans la partie.
+</content>
+</Getting_Started_help>
+
+
+<!-- ********************* Combat Help ********************* -->
+
+<Combat_help>
+<title>Combats</title>
+<content>Cette page propose une présentation assez détaillée des combats et de la façon dont ils se passent.</content>
+</Combat_help>
+
+<Combat_help>
+<title>Présentation d'un combat</title>
+<content>
+Cette section de l'aide vous expliquera comment toutes les 'parties' sont mises ensemble pour former le 'tout'.
+[p /]Une fois que tous les participants à un combat aient été sélectionnés, ils sont assemblés en groupes amis et hostiles.
+[br /]Remarque: l'attaquant ne peut pas utiliser des vaisseaux spécialisés [b class='b1']Uniquement Planète[/b], sauf si il y a une ou plusieurs planètes qui défendent les vaisseaux cibles.
+[br /]Les dégâts d'upgrade sont ensuite calculés pour les deux cotés (des détails sur les dégâts d'upgrade peuvent être consultés dans la section [a href=#upgrades]Upgrades[/a] de cette page).[br /]Les dégâts aux chasseurs de chaque côté sont ensuite calculés. Les dégâts infligés aux chasseurs sont ensuite corrigés en fonction de tout ce qui suit:
+[ul]
+	[li]Vitesse du vaisseau[/li]
+	[li]Taille du vaisseau[/li]
+	[li]Furtivité[/li]
+	[li]Type du vaisseau (les cargos et les cuirassés obtiennent des bonus)[/li]
+	[li]Scanner[/li]
+	[li]Vaisseau spécialisé uniquement vaisseaux(N'obtient de bonus que si aucune planète n'a participé au combat)[/li]
+	[li]Vaisseau spécialisé uniquement planètes (Obtient un grand malus si aucune planète n'a participé au combat)[/li]
+	[li]Expérience du vaisseau[/li]
+[/ul]
+Une fois que tous ces éléments sont pris en compte, le niveau de dégât final infligé aux chasseurs est établi.[br /]Les dégâts chasseurs et upgrades sont alors répartis parmi les protagonistes de la partie approprié, d'une façon semi-aléatoire.
+ [br /]Les vaisseaux qui ont subi des dégâts dans leurs coques mais ne sont pas détruits ont une bonne chance de perdre une partie de leurs capacités chasseurs/lariums !
+[br /]Tout titane/larium contenu dans les soutes d'un vaisseau détruit sera ajouté aux réserves en titane/larium du système.
+[br /]Les chasseurs abattus seront également rajoutés aux réserves en titane/larium du système.
+[p /]Et voilà comment on fait une description [b class='b1']TRES[/b] simple du fonctionnement d'un script de plus de 2000 lignes. :)
+</content>
+</Combat_help>
+
+<Combat_help>
+<title>Combats avec participation de planètes et flottes</title>
+<content>
+Pratiquement tout ce qui est écrit dans [b class='b1']Présentation d'un combat[/b] vaut également pour les combats planétaires (la différence résidant dans le nombre d'acteurs impliqués). Seules quelques différences subsistent en matière de combat planétaire.
+[p /] - [b]Attaquer une planète[/b][br /]Lors d'une attaque planétaire, tout vaisseau en configuration [b class='b1']Spécialisé Uniquement Vaisseau[/b] ne pourra pas participer.
+[br /] Tous les chasseurs qui ne [b class='b1']sont pas[/b] affectés à la défense de la flotte (voir allocation des chasseurs) vont défendre la planète:
+[br /][b class='b1']ATTENTION[/b]! Cela n'est valable que s'il y a effectivement des vaisseaux à défendre dans le système. S'il n'y a aucun vaisseau ami dans le système et que la planète est attaquée, alors tous les chasseurs de la planète vont pouvoir défendre cette planète.[br /]Quelques exemples:
+[p /]La planète X dispose de 1000 chasseurs dont 400 alloués à la défense de la flotte (et donc 600 pour défendre la planète). 
+[p /][b class='b1']Exemple 1[/b]: le joueur A attaque la planète X en ignorant la flotte présente dans le système.
+[br /]Le propriétaire de la planète X dispose de quelques vaisseaux dans le système.
+[br /]Seuls 600 chasseurs vont défendre la planète X lors de l'attaque (les 400 autres sont répartis dans toute la flotte amie, pour la défendre en cas d'attaque éventuelle).
+[br /][b]Prenez garde[/b]: les 400 chasseurs qui ont été alloués à la flotte vont devenir la propriété de celui qui attaque la planète s'il parvient à se l'approprier!! 
+[p /][b class='b1']Exemple 2[/b]: Le joueur A attaque cette même planète X (avec les mêmes allocations de chasseurs).
+[br /]Mais cette fois-ci il n'y a [b class='b1']aucun[/b] vaisseau ami dans le système (ils sont en train d'extraire du minerai quelque part).
+[br /]L'ensemble des 1000 chasseurs de la planète vont pouvoir défendre la planète lors de cette attaque.
+
+[br /][br /][p /] - [b]Attaquer une flotte[/b] qui bénéficie de l'aide d'une planète.[br /]Supposons que vous ayez affecté quelques chasseurs à la défense de la flotte, le résultat est que si une flotte présente dans ce système est attaquée, la planète enverra ces chasseurs pour défendre la flotte.
+[br /]Cela se passe tout simplement par l'addition des chasseurs alloués par la planète aux chasseurs alloués par la flotte. Les dégâts sont répartis entre eux de la même manière semi-aléatoire que lors d'une bataille normale de flotte. 
+[br /]Il est possible de bénéficier de [b class='b1']l'aide de plusieurs planètes[/b] dans le même système. Tous viendront à la rescousse de la flotte si elle est attaquée.
+[p /]Dans les combats avec participation planétaire, les vaisseaux [b class='b1']Spécialisés Uniquement Planètes[/b] (SUP) peuvent participer des [b]DEUX[/b] côtés (dans un combat vaisseau contre vaisseau traditionnel, seuls les vaisseaux SUP de la flotte cible peuvent participer). Le nombre de chasseurs du côté des attaquants est par conséquent beaucoup plus grand (pour compenser le grand nombre de capacités chasseurs des planètes).
+[br /]De même, les vaisseaux [b class='b1']Spécialisés Uniquement Vaisseaux[/b] (SUV) perdent tous leurs bonus, et se comportent en gros comme des vaisseaux 'normaux' pendant la durée du combat.
+</content>
+</Combat_help>
+
+<Combat_help>
+<title>Simulation de Combat</title>
+<content>
+La simulation de combat vous permet d'avoir une idée générale de l'orientation du combat, et ce sans le risque de voir votre flotte réduite à néant.
+[br /]La simulation utilise le même code que le combat et par conséquent produit en règle générale les mêmes résultats, mais rien n'est sauvegardé quand le combat s'achève.
+[br /]Néanmoins, gardez à l'esprit qu'il y a une grande part de hasard dans un combat, ce qui implique qu'il n'y a aucune garantie que les résultats de la simulation soient les mêmes que ceux d'une vraie attaque.
+[p /]Si une planète est impliquée dans un combat, la simulation essaiera de deviner le nombre de chasseurs que la planète va engager dans le combat (car elle ne peut pas savoir avec précision le nombre de chasseurs alloués à cette tâche).
+[br /][b]Remarque[/b]: Dans le cas d'une attaque de planète et s'il n'y a aucune flotte appartenant au propriétaire de la planète dans le système, la simulation saura que tous les chasseurs de la planète défendent cette planète (car il n'y a aucune flotte à défendre pour les chasseurs affectés à cette tâche).
+</content>
+</Combat_help>
+
+<Combat_help>
+<title>- Boucliers</title>
+<content>
+Les boucliers constituent la première ligne de défense de vos vaisseaux. Ils se régénèrent régulièrement et sans coût pour le joueur.
+[br /]Les boucliers sont la première couche défensive pendant un combat. Ils défendent vos chasseurs. Ils ne peuvent pas infliger des dégâts à l'ennemi. Chaque unité de bouclier peut absorber un dégât équivalent à 1 point avant de disparaître.  
+[p /]Les boucliers servent uniquement à défendre les vaisseaux et sont inutilisables pour défendre les planètes.
+</content>
+</Combat_help>
+
+<Combat_help>
+<title>- Chasseurs</title>
+<content>
+Les chasseurs constituent le moyen principal par lequel vous allez infliger des dégâts aux forces ennemies pendant un combat. Chaque chasseur inflige un peu moins d'1 point de dégât pendant un combat. Un chasseur qui est frappé d'1 point de dégât est abattu. 
+[br /]Les chasseurs sont défendus par des boucliers pendant le combat. Une fois que les boucliers d'un vaisseau sont éliminés, les chasseurs commencent à encaisser les dégâts (remarque: les tourelles défensives évitent les boucliers et atteignent directement les chasseurs!).
+[p /]On peut utiliser les chasseurs aussi bien sur les vaisseaux que sur les planètes, à des fins défensives comme offensives.
+</content>
+</Combat_help>
+
+<Combat_help>
+<title>- Coques</title>
+<content>
+L'unique fonction de la coque est de préserver intact le vaisseau sur lequel elle est déployée. Elle n'inflige aucun dégât. 
+[br /]Les coques doivent être installées sur les vaisseaux, et il est possible d'utiliser des coques auto-réparatrices.
+[br /]Pendant un combat, la coque d'un vaisseau va uniquement absorber les dégâts (tout comme les boucliers), mais elle absorbera uniquement les dégâts qui autrement détruiraient le vaisseau. Avant que le dégât n'atteigne la coque du vaisseau, il faut donc que tous les chasseurs et les boucliers du vaisseau soient détruits. [br /]Chaque unité de coque absorbe en général 2 points de dégâts avant de disparaître (ce nombre peut être modifié par l'admin). 
+[p /]Les coques servent uniquement à bord des vaisseaux, et ne peuvent pas défendre les planètes.
+</content>
+</Combat_help>
+
+<Combat_help>
+<title>- Upgrades</title>
+<content>
+Les upgrades jouent un rôle essentiel pendant le combat. Ils permettent au vaisseau d'endommager l'ennemi sans devoir transporter des chasseurs. [br /]Il existe trois types d'upgrades de combat:[p /]
+[b]Modules de Guerre Electronique (MGE)[/b] - Chaque MGE dispose d'une [i]charge[/i] limitée qui est utilisée pour chaque point de dégât que le MGE doit traiter.
+[br /]Si les deux protagonistes A et B possèdent des MGE, mais que A en a plus que B, les MGE de B deviendront inertes et inefficaces. Si les deux côtés ont le même nombre, ils se neutraliseront mutuellement et aucun dégât ne sera infligé.
+[br /]Les MGE tentent d'abord de neutraliser les [b class='b1']Tourelles Offensives[/b] de l'ennemi. S'il reste encore des charges après cette opération, ils tenteront d'éliminer les [b class='b1']Tourelles Défensives[/b] de l'adversaire. Toutes les charges restantes serviront à détruire les [b class='b1']chasseurs[/b] hostiles (en évitant les boucliers ennemis).
+[br /]Remarque: si [b]il y a des[/b] planètes qui participent au combat, les MGE des deux côtés seront neutralisés (les planètes disposent d'un effet neutralisant sur les MGE).  
+[p /][b]Tourelles Défensives (TD)[/b] - Les tourelles défensives sont uniques car elles permettent à un vaisseau de détruire les chasseurs ennemis [b class='b1']avant[/b] qu'ils puissent endommager le vaisseau. C'est leur unique rôle pendant un combat.[br /]Les dégâts infligés par les TD éviteront les boucliers ennemis.
+[p /][b]Tourelles Offensives (OT's)[/b] - Ils comprennent la [b class='b1']Lance-Torpille[/b], et le [b class='b1']Canon à Plasma [/b]. Ils infligent des dégâts identiques aux chasseurs (çàd en détruisant d'abord les boucliers ennemis, puis les chasseurs et enfin les coques).[br /]Il convient de noter que si ces tourelles parviennent à franchir les coques d'un vaisseau, le [b class='b1']vaisseau ennemi sera détruit[/b] (de la même manière que les chasseurs).
+</content>
+</Combat_help>
+
+<Technical_Information_help>
+<title>Informations Techniques</title>
+<content>
+Cette page propose les informations techniques sur la partie, et peut donc s'avérer très technique.
+[br /]Cette page a pour but de vous donner des détails sur la façon dont certains aspects du jeu fonctionnent, afin que les joueurs puissent les exploiter au mieux.
+[p /]Les informations techniques sont listées ci-dessous:
+</content>
+</Technical_Information_help>
+
+<Technical_Information_help>
+<title>Terra Maelstroms</title>
+<content>
+[br /]Moriarty (11/June/02)
+[p /]Ce sont des petites armes anti-planètes vicieuses, des upgrades d'un disrupteur de quark.
+[br /]Un disrupteur de quark inflige normalement 600 à 1400 dégâts (aléatoires) par tir pour 30 cycles.
+[p /]50 cycles représentent le minimum absolu dont une Terra a besoin pour tirer. Voici ce qui se passe ensuite:
+[br /]Les 50 cycles vont générer entre 4000 et 6000 dégâts (aléatoires).
+[br /]Maintenant, si une planète dispose d'un nombre plus élevé de chasseurs et que l'utilisateur possède plus de 50 cycles, le jeu va d'abord chercher quel est le nombre maximum de cycles qu'un joueur peut avoir. Si le joueur possède ce nombre maximum, il va abattre entre 65% et 75% des chasseurs de cette planète (aléatoirement). S'il ne possède pas autant de cycles, la Terra va utiliser tous les cycles que le joueur possède et va infliger des dégâts représentant 65% à 75% de ce que le joueur est capable de faire.  
+[br /]Quel que soit le nombre des dégâts infligés, ce nombre est ensuite soumis à une variation aléatoire de 5%.
+[p /]Enfin, le jeu va évaluer si les dégâts infligés en utilisant tous les cycles possédés par le joueur sont plus élevés que les dégâts fixes infligés pour 50 cycles. C'est le niveau de dégât le plus élevé qui est gardé et utilisé.
+</content>
+</Technical_Information_help>
+
+
+<!--
+<type_of_help>
+<title></title>
+<content></content>
+</type_of_help>
+
+<type_of_help>
+<title></title>
+<content></content>
+</type_of_help>
+
+<type_of_help>
+<title></title>
+<content></content>
+</type_of_help>
+
+-->
+
+</contents_of_file>

@@ -1,0 +1,152 @@
+Created 13/3/05 by Moriarty
+Last updated: 15/08/06 by Moriarty
+Version 2.0.0001.0.51.6
+
+Install
+A simple install file. If you have any problems go and trouble the folks at forum.solar-empire.net - You may even find me around though I'll never admit to anything! ;-)
+
+This file is best read with word-wrap on.
+
+------------------------------------------
+
+
+------------------------------------------
+******************************************
+***************SERVER SETUP***************
+******************************************
+------------------------------------------
+The below will setup the server, and ready it for setting-up games, which is the second step.
+
+
+Software required:
+
+PHP: www.php.net
+Mysql: www.mysql.com
+
+phpMyAdmin: phpmyadmin.sourceforge.net (not necassary, but very helpful)
+
+plus a Webserver:
+Apache: httpd.apache.org (recommended)
+PWS: Windows 98 SE cd
+IIS: Win 2000, NT (with one of the service packs), XP Pro.
+
+Or anything else that will run PHP and MySQL together.
+
+Install the above and ensure they're all happily talking to one-another. There are plenty of FAQ's and the like online covering this.
+
+
+------------------------------------------
+
+config.dat.php
+In the games directory there is a config.dat.php file. This file will need to be properly setup for anything to work.
+It's all self explanatory. :)
+
+------------------------------------------
+
+dir_names.php
+This file contains the names of all of SE's sub-directories. This allows you to easily change a directory name (for security). default settings should work fine.
+
+------------------------------------------
+
+SQL
+There are three SQL text files in the SQL directory. Dump the new_server.sql and se_svr_star_names.sql straight into your database. These will create all tables that arn't game specific.
+
+Ignore the new_game.sql file for now.
+
+
+-------------------------------------------
+
+Maints
+The maints are run through the file "run_maints.php" which can be found in the "games" directory.
+
+If you want to automagically run maints, you will need to be using a scheduler. The best way I've found to call the maints is through a browser funnily enough. On *nix you can use the crontab file included (which uses lynx to call the maints (though I'm sure a *nix buff can easlier improve it :) )). Be sure to set www.YOUR-URL.com to whatever your url is in the crontab file though before using.
+
+It is advised that you include a .htaccess (for apache, or whatever your server uses otherwise), if you're running a live server, that blocks all access to the games directory except for the local server. A sample .htaccess file is included. This stops anyone other than the server from requesting the maints (An extra security measure. Maints cannot be run more regularly than allowed on a per-game basis (see below) so it's not essential).
+
+There are a couple of settings that can be tweaked in run_maints.php (at the top). It works fine as default though.
+
+The setting for controlling when maints run for a particular game is in the database. Every time run_maints.php is called, it will check to see which games are overdue for a maint (both hourly and daily) and then run whatever is needed.
+
+If you have one game, and that game wants the hourlies run once per hour, and the dailies run once per day (i.e. using the settings given in the game setup section below), all you have to do is set the cron to run once every hour. The game will figure everything else out.
+
+
+Note: If you can't setup a cron for whateve reason it's possible to call run_maints.php every time a user loads a page. This I'll let you figure out for yourself if you need it (it's not something I've ever done, just theoretical).
+
+
+------------------------------------------
+------------------------------------------
+++++++++++++SETTING UP GAMES++++++++++++++
+------------------------------------------
+------------------------------------------
+The server is setup. You should only do the above once, unless you're moving machines/web-hosts or something.
+This stage covers setting up games. You will need to do this once for each game you wish your server to have.
+
+Game-name
+First of all, you will have to choose a name for you game. For this install, it will be MY FIRST GAME.
+MY FIRST GAME is the name the players will see for the game.
+
+db_name
+You will also need a db_name for the game. This is the name the server will use to establish which game you are refering to.
+For the purposes of this tutorial it will be FIRST_GAME.
+The db_name should be different for each game.
+You should only use letters and underscores for the db_name. No spaces or anything fancy. :)
+
+
+I'm using Caps in both of the above to make them stand out. You can use lower-case if you wish.
+
+------------------
+SQL
+
+new_game.sql
+new_game.sql contains all of the database tables you need to create a new game.
+Open the file using notepad or whatever. Then run a text-replace through it. Replace all instances of GAMENAME with FIRST_GAME.
+Then dump the resulting file into the database.
+
+
+se_games table
+One more thing to do with the database.
+You will need to INSERT an entry into se_games. You will only need to set the following. The rest can be set in-game.
+The left has the se_games column name, the right has the value.
+
+---- START ----
+
+name = MY FIRST GAME
+db_name = FIRST_GAME
+admin_pw = password
+ ----- Note: The Admin password (admin_pw) should be unique for each game, as it is this that is used to differentiate which Admin logs into which game.
+
+hourly = 60
+ --------The number of minutes to be between each hourly maint.
+daily = 24
+ --------The number of hours between each daily maint.
+
+---- END ----
+
+ NOTE: hourly and daily can be changed to whatever you wish. You can have hourlies run once per min if you enter 1 for hourly, but remember you'll have to set the cron to be run once per minute too (see server setup section). Same goes for daily. Simply leave these if you haven't gotton around to figuring out the maints completely yet. :)
+
+
+
+
+-----------------------------------------
+
+db_name_maps directory
+You will have to create a writable directory called FIRST_GAME_maps in the images directory for each game. This must be writable by the server, otherwise no maps.
+
+db_name_vars.inc.php
+Similarly, you'll have to create a FIRST_GAME_vars.inc.php in the includes directory. Make sure it's writable.
+
+This release includes both a db_name_maps directory in the images dir, and a db_name_vars.inc.php. You can simply rename them (though be sure to set their permissions).
+
+
+-----------------------------------------
+
+Logging in notes:
+When a player logs in they'll log into gamelisting page from where they can choose the game they want to play.
+When an Admin logs in they will automatically be taken to their respective game, completely skipping the game-listing. This is why the admin password is stored seperately in se_games.
+
+Note: The Admin login name is "Admin". Any other spelling (i.e. all lower case "admin") will result in the game being rude and telling you to sod off. ;-)
+
+-----------------------------------------
+
+
+That should be everything setup. Hope I didn't forget anything. If I did you'll never get me to admit to it. :-D

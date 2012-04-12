@@ -1,0 +1,43 @@
+ewd - removes other EW - then takes out offensive turrets
+ewa - removes other EW - then takes out defensive turrets
+ew - then takes out fighters.
+
+dt - takes out fighters before they can fire (the only thing that does this).
+
+ot / pc - First shots stopped by armour. Then hits shields. Then hits fighters.
+
+sa - Stops offensive turret fire.
+
+planets only,ships only
+ship size
+
+
+
+
+
+
+Attacking fighters do 35% less than their total.
+Defending fighters do 15% less than their total.
+Fighter damages can modify by +/- 6% randomly.
+
+ships size is then divided by 100.
+8 (largest) = 8% increase in damage taken
+4 (normal) = 4% increase in damage taken
+1 (smallest) = 1% increase in damage taken
+
+Ship speed is divided by 100.
+7 (largest) = 7% increase in damage dealt, decrease in damage taken
+4 (normal) = 4% increase in damage dealt, decrease in damage taken
+1 (smallest) = 1% increase in damage dealt, decrease in damage taken
+
+points killed goes up by 1, then divided by 100. max = 20% increase.
+Goes towards damage dealt.
+
+Ship does 10% more damage if it is a battleship.
+Ship does 5% more damage if has a scanner.
+Ship takes 7.5% less damage if it is a frieghter, and does 4% more.
+Ship does 3.5% more damage if highly stealthed, and takes 4.5% less
+Ship does 1% more damage if low stealthed, and takes 3% less.
+
+Ship takes 25% more damage from planets if is SO
+ship takes 25% more damage from other ships if it is PO.

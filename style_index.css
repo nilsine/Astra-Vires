@@ -1,0 +1,284 @@
+body {
+	font-family: Georgia;
+	font-size: 14px;
+	background-color: #000000;
+	color: #FFFFFF;
+	padding: 0;
+	margin: 0;
+	background-image: url('images/interface/accueilFond.jpg');
+	background-position: top center;
+	background-repeat: no-repeat;
+}
+
+A:link {text-decoration: none;font-weight: bold;color:#FF6666}
+A:visited {text-decoration: none;font-weight: bold;color:#FF6666}
+A:hover {text-decoration: underline;font-weight: bold;color:#00FFFF}
+
+ul, form {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+li {
+	margin-bottom: 5px;
+}
+
+hr {
+    color: #FFF;
+    background-color: #FFF;
+    height: 1px;
+    border: 0;
+}
+
+h1 {
+    font-size: 170%;
+    margin: 13px 0 8px 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-size: 140%;
+    margin: 7px 0 3px 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+	font-size: 120%;
+	margin: 3px 0 1px 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input {
+	border:solid 1px #FFFFFF;
+	background-color:#555555;
+	color:#FFFFFF;
+	padding:3px;
+}
+
+p {
+	margin: 3px;
+	padding: 0px;
+}
+
+img {
+	border: none;
+}
+
+input[type=submit]:hover {
+	cursor: pointer;
+}
+
+
+.inscription input {
+	font-size: 13px;
+}
+
+.inscription td {
+	font-size: 13px;
+	padding: 4px;
+}
+
+.libelleChamp {
+	text-align: right;
+	font-weight: bold;
+}
+
+.captures img {
+	float: left;
+	margin: 4px;
+}
+
+.spacer {
+	clear: both;
+}
+
+.obligatoire {
+	color: #FF0000;
+}
+
+
+#accueilPrincipal {
+	margin-left: auto; 
+	margin-right: auto; 
+	margin-top: 150px;
+	padding-top: 5px;
+	width: 1000px;
+	height: 152px;
+	position: relative;
+}
+
+#accueilMenu {
+	width: 170px;
+	margin-right: 15px;
+	text-align: right;
+	float: left;
+	padding: 5px;
+	font-size: 10pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#accueilMenu li a {
+    font-size: 120%;
+}
+
+#accueilColonne1 {
+	width: 250px;
+	float: left;
+	padding: 6px;
+	margin-right: 10px;
+	font-family: Georgia;
+	font-size: 14px;
+}
+
+#accueilColonne2 {
+	width: 250px;
+	float: left;
+	padding: 5px;
+    font-family: Georgia;
+    font-size: 14px;
+}
+
+#accueilColonne3 {
+	width: 250px;
+	float: left;
+	padding: 2px;
+	margin-left: 10px;
+}
+
+#accueilJouez {
+    position: absolute;
+    z-index: 10;
+	top: 180px;
+	left: 380px;
+	width: 312px;
+}
+
+#carte {
+	margin-left: auto; 
+	margin-right: auto; 
+	margin-top: 280px;
+	width: 1000px;
+	text-align: center;
+}
+
+#accueilBas {
+	position: absolute;
+	top: 830px;
+	width: 100%;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+	#accueilBas #logosAnnuaires {
+		margin-left: auto; 
+		margin-right: auto; 
+		width: 950px;
+		margin-bottom: 10px;
+	}
+	
+    	#accueilBas #logosAnnuaires div.annuaire {
+    		float: left;
+    		width: 90px;
+    		margin: 5px;
+    		font-family: Arial;
+    		font-size: 13px;
+    	}
+/*
+#accueilPrincipal2 {
+	margin-left: auto; 
+	margin-right: auto; 
+	padding-top: 5px;
+	width: 992px; 
+	background-color: #000000; 
+	padding: 4px;
+}	
+*/
+span.code {
+    background-color: #FFFFFF;
+    border: 1px dotted #000000;
+    color: #000000;
+    font-family: "DejaVu Sans Mono","Courier New";
+    font-size: 13px;
+    padding: 5px;
+}
+
+#accueilColonne2 p {
+	margin: 10px 0;
+}
+
+#accueilColonne2 select {
+	margin-right: 10px;
+}
+
+#accueilColonne2 input {
+	 padding: 1px;
+}
+
+#accueilColonne2 span.rouge {
+	color: #EE0000;
+}
+
+#accueilColonne2 span.vert {
+	color: #008800;
+}
+
+.hand, #modeHoliday {
+	cursor: pointer;
+}
+
+.message_succes {
+	background-color : #669933;
+	border: 1px solid #336600;
+	text-align: center;
+	padding : 4px;
+	margin : 5px auto;
+	max-width: 400px;
+}
+
+.message_echec {
+	background-color : #CC3333;
+	border: 1px solid #990000;
+	text-align: center;
+	padding : 4px;
+	margin : 5px auto;
+	max-width: 400px;
+}
+
+#ongletsuserextra {	
+	float:left ;
+	width : 780px; 
+	border:0px;
+}
+
+#contenu_public { 
+    float: left;
+    width : 780px;
+    height: 600px;
+    padding: 10px;
+    overflow: auto;
+    background-color: #000;
+    /* Required for IE 5, 6, 7 */
+    /* ...or something to trigger hasLayout, like zoom: 1; */
+    zoom: 1; 
+
+    /* Theoretically for IE 8 & 9 (more valid) */
+    /* ...but not required as filter works too */
+    /* should come BEFORE filter */
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+
+    /* This works in IE 8 & 9 too */
+    /* ... but also 5, 6, 7 */
+    filter: alpha(opacity=60);
+
+    /* Older than Firefox 0.9 */
+    -moz-opacity:0.6;
+
+    /* Safari 1.x (pre WebKit!) */
+    -khtml-opacity: 0.6;
+
+    /* Modern! */
+    /* Firefox 0.9+, Safari 2?, Chrome any? */
+    /* Opera 9+, IE 9+ */
+    opacity: 0.6;
+}

@@ -1,0 +1,1 @@
+5,25,45 * * * * lynx --dump http://www.YOUR-URL.com/games/run_maints.php

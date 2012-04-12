@@ -1,0 +1,47 @@
+Pirates use login_id 2.
+Aliens use login_id 3
+Both have permanent accounts.
+
+Listing of random events and their vars:
+Random _event		var
+Black Hole		1
+Nebula			2
+Pirates			3
+Mining Rush		4
+SuperNova		5
+SuperNova Remnant	6
+Alien Homeworld		7
+Alien Colony		8
+Alien Frontier		9
+Artificial SuperNova	10	This is a sort of counter. 10 = day1
+Artificial SuperNova	11	This is a sort of counter. 11 = day2
+Solar Storm		12
+Safe SuperNova Remnant	14
+
+-10 login_id for posts to news = random events.
+-11 login_id for posts to news = random events that also go to front_page.
+
+
+
+Alien Levels.
+
+#0 = u have done nothing to them
+#1 = you have entered their system. still friendly.
+#2 = have entered again. bit less friendly.
+#3 = inbetween 2 and 4. They are not too happy, but will leave u alone.
+#4 = have entered home system. will attack u on the next hour.
+#5 = take out a ship every couple of days. must have biggish fleet.
+#6 = take out a ship once a day. must have biggish fleet.
+#7 = take out a few ships each day.
+#8 = take out one ship every 3 hours (or so).
+#9 = come after u hourly.
+#10 = u're doomed. every hour take out a few ships.
+
+
+Aliens use the one_brob db_users to see if someone has discovered them b4.
+Aliens and pirates both have a negative Auth code.
+Gammas & deltas do half damage in alien systems.
+Quark disrupters bounce back in alien systems.
+
+Pirate info.
+Note that Pirate levels are pretty much the same.
